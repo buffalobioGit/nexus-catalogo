@@ -1899,6 +1899,22 @@
       "genero": "Tiro",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "2",
+      "titulo": "NanoHive",
+      "desc": "NanoHive coloca você no controle de uma colônia de nanorobôs que precisam se organizar para resolver desafios de lógica em ambientes tridimensionais. Cada nível exige planejamento cuidadoso e manipulação precisa das criaturas, oferecendo uma experiência cerebral que evolui em complexidade à medida que avança.",
+      "capa": "",
+      "logo": "",
+      "background": "",
+      "hours": "10h",
+      "year": "2008",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/nanodiver-17193",
+      "destaque": false,
+      "genero": "Puzzle",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gc": [
