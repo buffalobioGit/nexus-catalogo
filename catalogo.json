@@ -1882,5 +1882,23 @@
       "genero": "Aventura",
       "geradoPorIA": true
     }
+  ],
+  "psp": [
+    {
+      "id": "1",
+      "titulo": "Macross Triangle Frontier",
+      "desc": "Em Macross Triangle Frontier, você assume o comando de um caça transformável em meio a uma guerra intergaláctica, enfrentando ondas de inimigos e chefões épicos enquanto protege a humanidade. A jogabilidade combina combates aéreos intensos com estratégias de equipe, oferecendo uma experiência imersiva de ação espacial.",
+      "capa": "covers/covers_psp/macross-triangle-frontier.webp",
+      "logo": "play_game_logos/macross-triangle-frontier-logo.webp",
+      "background": "backgrounds/macross-triangle-frontier-hero.webp",
+      "hours": "15h",
+      "year": "2008",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/macross-triangle-frontier-12632/1",
+      "destaque": false,
+      "genero": "Tiro",
+      "jogadores": 2,
+      "geradoPorIA": true
+    }
   ]
 }
