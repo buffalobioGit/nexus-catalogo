@@ -1641,6 +1641,21 @@
       "destaque": false,
       "genero": "Ação",
       "geradoPorIA": true
+    },
+    {
+      "id": "58",
+      "titulo": "Toy Story 3: The Video Game",
+      "desc": "Em Toy Story 3: The Video Game, você acompanha Woody, Buzz e a turma em uma jornada cheia de ação e humor, enquanto tentam escapar da creche e salvar seus amigos. Cada nível traz desafios únicos, combinando plataformas, quebra-cabeças e combates leves, tudo com o charme dos personagens icônicos da franquia.",
+      "capa": "covers/covers_ps2/toy-story-3-the-video-game.webp",
+      "logo": "play_game_logos/toy-story-3-the-video-game-logo.webp",
+      "background": "backgrounds/toy-story-3-the-video-game-hero.webp",
+      "hours": "8h",
+      "year": "2010",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/toy-story-3-4-142109/2",
+      "destaque": false,
+      "genero": "Aventura",
+      "geradoPorIA": true
     }
   ]
 }
