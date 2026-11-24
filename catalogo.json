@@ -1900,5 +1900,23 @@
       "jogadores": 2,
       "geradoPorIA": true
     }
+  ],
+  "gc": [
+    {
+      "id": "1",
+      "titulo": "The Legend of Zelda: Twilight Princess",
+      "desc": "Em Twilight Princess, Link é transportado para o misterioso Reino do Crepúsculo, onde sombras ameaçam Hyrule. Ele deve dominar a forma de lobo, forjar alianças inesperadas e desvendar segredos antigos para restaurar a luz e salvar a princesa Zelda.",
+      "capa": "covers/covers_gc/the-legend-of-zelda-twilight-princess.webp",
+      "logo": "play_game_logos/the-legend-of-zelda-twilight-princess-logo.webp",
+      "background": "backgrounds/the-legend-of-zelda-twilight-princess-hero.webp",
+      "hours": "20h",
+      "year": "2006",
+      "rate": "9.5",
+      "rom": "https://romsfun.com/download/the-legend-of-zelda-twilight-princess-27492/3",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
+    }
   ]
 }
