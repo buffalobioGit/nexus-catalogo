@@ -1823,6 +1823,21 @@
       "rate": "",
       "rom": "https://romsfun.com/download/wall-e-4-166904/9",
       "destaque": false
+    },
+    {
+      "id": "63",
+      "titulo": "Hot Wheels: Beat That!",
+      "desc": "Hot Wheels: Beat That! leva os jogadores a uma pista cheia de adrenalina, onde a velocidade e a criatividade são essenciais para vencer. Com uma variedade de veículos personalizáveis e desafios que testam habilidades de drift, salto e manobras arriscadas, o jogo oferece corridas intensas em ambientes cheios de obstáculos e surpresas. Cada pista foi projetada para estimular a competição, permitindo que os jogadores mostrem seu talento ao dominar as acrobacias mais ousadas.",
+      "capa": "covers/covers_ps2/hot-wheels-beat-that.webp",
+      "logo": "play_game_logos/hot-wheels-beat-that-logo.webp",
+      "background": "backgrounds/hot-wheels-beat-that-hero.webp",
+      "hours": "8h",
+      "year": "2007",
+      "rate": "6.2",
+      "rom": "https://romsfun.com/download/hot-wheels-beat-that-4-140907/2",
+      "destaque": false,
+      "genero": "Corrida",
+      "geradoPorIA": true
     }
   ]
 }
