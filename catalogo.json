@@ -1779,7 +1779,8 @@
       "rom": "https://romsfun.com/download/ben-10-protector-of-earth-4-140337/3",
       "destaque": false,
       "genero": "Ação",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "60",
@@ -1794,7 +1795,8 @@
       "rom": "https://romsfun.com/download/bakugan-battle-brawlers-2-15881/2",
       "destaque": false,
       "genero": "Ação",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 2
     },
     {
       "id": "61",
@@ -1809,7 +1811,8 @@
       "rom": "https://romsfun.com/download/ultimate-spider-man-3-18330/5",
       "destaque": false,
       "genero": "Ação",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "62",
@@ -1837,7 +1840,8 @@
       "rom": "https://romsfun.com/download/hot-wheels-beat-that-4-140907/2",
       "destaque": false,
       "genero": "Corrida",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 4
     },
     {
       "id": "64",
@@ -1865,7 +1869,8 @@
       "rom": "https://romsfun.com/download/woody-woodpecker-escape-from-buzz-buzzard-park-90337/3",
       "destaque": false,
       "genero": "Plataforma",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "66",
@@ -1880,7 +1885,8 @@
       "rom": "https://romsfun.com/download/monsters-inc-scare-island-165679/1",
       "destaque": false,
       "genero": "Aventura",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     }
   ],
   "psp": [
@@ -1902,17 +1908,17 @@
     },
     {
       "id": "2",
-      "titulo": "NanoHive",
-      "desc": "NanoHive coloca você no controle de uma colônia de nanorobôs que precisam se organizar para resolver desafios de lógica em ambientes tridimensionais. Cada nível exige planejamento cuidadoso e manipulação precisa das criaturas, oferecendo uma experiência cerebral que evolui em complexidade à medida que avança.",
+      "titulo": "Nanodiver",
+      "desc": "Nanodiver coloca o jogador no papel de um piloto de mecha que deve enfrentar hordas de inimigos em ambientes futuristas repletos de obstáculos e chefões desafiadores. Com gráficos vibrantes e trilha sonora pulsante, o jogo combina ação frenética e plataformas precisas, oferecendo uma experiência intensa e cativante para os fãs de shooters side‑scroll.",
       "capa": "",
       "logo": "",
       "background": "",
-      "hours": "10h",
+      "hours": "8h",
       "year": "2008",
-      "rate": "8.5",
+      "rate": "7.5",
       "rom": "https://romsfun.com/download/nanodiver-17193",
       "destaque": false,
-      "genero": "Puzzle",
+      "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
     }
