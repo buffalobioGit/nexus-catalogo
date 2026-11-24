@@ -1576,6 +1576,21 @@
       "destaque": false,
       "geradoPorIA": true,
       "genero": "Ação"
+    },
+    {
+      "id": "55",
+      "titulo": "Killzone",
+      "desc": "Em um futuro sombrio, a humanidade luta contra a implacável raça Helghast, que busca dominar o planeta Vekta. O soldado de elite de Helghan, Rico Velasquez, lidera missões arriscadas, enfrentando ambientes hostis e confrontos intensos que testam sua coragem e lealdade. A trama mergulha o jogador em uma guerra brutal, repleta de estratégias táticas e reviravoltas inesperadas, enquanto a linha entre inimigo e aliado se torna cada vez mais tênue.",
+      "capa": "covers/covers_ps2/killzone.png",
+      "logo": "play_game_logos/killzone-logo.png",
+      "background": "backgrounds/killzone-hero.png",
+      "hours": "12h",
+      "year": "2004",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/killzone-15020/11",
+      "destaque": false,
+      "genero": "Tiro",
+      "geradoPorIA": true
     }
   ]
 }
