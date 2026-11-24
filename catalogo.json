@@ -1935,6 +1935,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "70",
+      "titulo": "Def Jam: Vendetta",
+      "desc": "Def Jam: Vendetta mergulha o jogador no mundo do hip‑hop, onde rappers e lutadores se enfrentam em combates intensos e cheios de estilo. Com um elenco de estrelas da música e movimentos de luta únicos, o jogo oferece ação rápida e um cenário urbano vibrante que captura a energia dos confrontos de rua.",
+      "capa": "covers/covers_ps2/def-jam-vendetta.webp",
+      "logo": "play_game_logos/def-jam-vendetta-logo.webp",
+      "background": "backgrounds/def-jam-vendetta-hero.webp",
+      "hours": "10h",
+      "year": "2003",
+      "rate": "7.8",
+      "rom": "https://romsfun.com/download/def-jam-vendetta-2-16134/5",
+      "destaque": false,
+      "genero": "Luta",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
