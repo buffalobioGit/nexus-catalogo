@@ -1887,6 +1887,22 @@
       "genero": "Aventura",
       "geradoPorIA": true,
       "jogadores": 1
+    },
+    {
+      "id": "67",
+      "titulo": "Kingdom Hearts II",
+      "desc": "Em Kingdom Hearts II, Sora retorna à sua jornada para proteger os mundos da escuridão, reunindo aliados icônicos da Disney e da Square Enix. Com um sistema de combate dinâmico e novas habilidades, ele enfrenta inimigos poderosos enquanto desvenda mistérios que ameaçam o equilíbrio entre luz e trevas.",
+      "capa": "covers/covers_ps2/kingdom-hearts-ii.webp",
+      "logo": "play_game_logos/kingdom-hearts-ii-logo.webp",
+      "background": "backgrounds/kingdom-hearts-ii-hero.webp",
+      "hours": "30h",
+      "year": "2005",
+      "rate": "8.8",
+      "rom": "https://romsfun.com/download/kingdom-hearts-ii-12967/9",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
