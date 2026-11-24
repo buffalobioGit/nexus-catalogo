@@ -1780,6 +1780,21 @@
       "destaque": false,
       "genero": "Ação",
       "geradoPorIA": true
+    },
+    {
+      "id": "60",
+      "titulo": "Bakugan: Battle Brawlers",
+      "desc": "Em Bakugan: Battle Brawlers, os jogadores assumem o papel de um treinador que coleta e batalha com criaturas misteriosas chamadas Bakugan. Explore arenas cheias de desafios, evolua seus monstros e enfrente rivais em combates estratégicos que testam sua habilidade e timing, tudo ambientado no universo vibrante da série animada.",
+      "capa": "covers/covers_ps2/bakugan-battle-brawlers.webp",
+      "logo": "play_game_logos/bakugan-battle-brawlers-logo.webp",
+      "background": "backgrounds/bakugan-battle-brawlers-hero.webp",
+      "hours": "8h",
+      "year": "2004",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/bakugan-battle-brawlers-2-15881/2",
+      "destaque": false,
+      "genero": "Ação",
+      "geradoPorIA": true
     }
   ]
 }
