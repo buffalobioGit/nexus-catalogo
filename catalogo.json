@@ -1611,6 +1611,21 @@
       "destaque": false,
       "genero": "Tiro",
       "geradoPorIA": true
+    },
+    {
+      "id": "56",
+      "titulo": "Madagascar: Operation Penguin",
+      "desc": "Em Madagascar: Operation Penguin, os jogadores acompanham o pinguim Skipper e sua equipe em uma missão cheia de ação e humor, atravessando ambientes vibrantes inspirados no filme. Cada nível traz desafios de plataforma, quebra-cabeças e inimigos carismáticos, garantindo diversão para todas as idades.",
+      "capa": "covers/covers_ps2/madagascar-operation-penguin.webp",
+      "logo": "play_game_logos/madagascar-operation-penguin-logo.webp",
+      "background": "backgrounds/madagascar-operation-penguin-hero.webp",
+      "hours": "6h",
+      "year": "2000",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/madagascar-6-107291/10",
+      "destaque": false,
+      "genero": "Plataforma",
+      "geradoPorIA": true
     }
   ]
 }
