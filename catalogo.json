@@ -1919,6 +1919,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "69",
+      "titulo": "Disney•Pixar Brave: The Video Game",
+      "desc": "Em Brave: The Video Game, você acompanha Merida em sua jornada para desfazer uma terrível maldição que transformou seu reino. Explore florestas escocesas, enfrente criaturas míticas e descubra segredos enquanto busca restaurar a paz ao seu lar.",
+      "capa": "covers/covers_ps2/disney-pixar-brave-the-video-game.webp",
+      "logo": "play_game_logos/disney-pixar-brave-the-video-game-logo.webp",
+      "background": "backgrounds/disney-pixar-brave-the-video-game-hero.webp",
+      "hours": "6h",
+      "year": "2009",
+      "rate": "7.0",
+      "rom": "https://romsfun.com/download/disney-pixar-wall-e-70747/9",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
