@@ -13,7 +13,8 @@
       "rom": "https://romsfun.com/download/final-fantasy-ix-28249/60",
       "destaque": true,
       "arquivoAntigo": "Final Fantasy IX (USA) (Disc 1).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "2",
@@ -28,7 +29,8 @@
       "rom": "https://romsfun.com/download/tomb-raider-5-25613/58",
       "destaque": true,
       "arquivoAntigo": "Tomb Raider (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "3",
@@ -43,7 +45,8 @@
       "rom": "https://romsfun.com/download/metal-gear-solid-21802/50",
       "destaque": true,
       "arquivoAntigo": "Metal Gear Solid (USA) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "4",
@@ -58,7 +61,8 @@
       "rom": "https://romsfun.com/download/final-fantasy-viii-21732/64",
       "destaque": true,
       "arquivoAntigo": "Final Fantasy VIII (USA) (Disc 1).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "5",
@@ -73,7 +77,8 @@
       "rom": "https://romsfun.com/download/final-fantasy-vii-21726/42",
       "destaque": true,
       "arquivoAntigo": "a.chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "6",
@@ -88,7 +93,8 @@
       "rom": "https://romsfun.com/download/the-legend-of-dragoon-21838/63",
       "destaque": true,
       "arquivoAntigo": "a2.chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "7",
@@ -103,7 +109,8 @@
       "rom": "https://romsfun.com/download/__trashed-75-9330/25",
       "destaque": true,
       "arquivoAntigo": "Resident Evil 2 (USA) (Disc 1).chd",
-      "genero": "Terror"
+      "genero": "Terror",
+      "jogadores": 1
     },
     {
       "id": "8",
@@ -118,7 +125,8 @@
       "rom": "https://romsfun.com/download/gran-turismo-2-2-24117/29",
       "destaque": true,
       "arquivoAntigo": "Gran Turismo 2 (USA) (Arcade Mode).chd",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "9",
@@ -133,7 +141,8 @@
       "rom": "https://romsfun.com/download/driver-2-back-on-the-streets-26002/23",
       "destaque": true,
       "arquivoAntigo": "Driver 2 - Back on the Streets (Europe) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "10",
@@ -148,7 +157,8 @@
       "rom": "https://romsfun.com/download/koudelka-24470/59",
       "destaque": true,
       "arquivoAntigo": "Koudelka (USA) (Disc 3).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "11",
@@ -163,7 +173,8 @@
       "rom": "https://romsfun.com/download/crash-bandicoot-21729/14",
       "destaque": false,
       "arquivoAntigo": "Crash Bandicoot (USA).chd",
-      "genero": "Plataforma"
+      "genero": "Plataforma",
+      "jogadores": 1
     },
     {
       "id": "12",
@@ -178,7 +189,8 @@
       "rom": "https://romsfun.com/download/parasite-eve-2-21754/24",
       "destaque": false,
       "arquivoAntigo": "Parasite Eve II (Spain) (Disc 2).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "13",
@@ -193,7 +205,8 @@
       "rom": "https://romsfun.com/download/tekken-3-21735/14",
       "destaque": false,
       "arquivoAntigo": "Tekken 3 (USA).chd",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "14",
@@ -208,7 +221,8 @@
       "rom": "https://romsfun.com/download/medievil-25601/55",
       "destaque": false,
       "arquivoAntigo": "MediEvil (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "15",
@@ -223,7 +237,8 @@
       "rom": "https://romsfun.com/download/syphon-filter-2-25658/44",
       "destaque": false,
       "arquivoAntigo": "Syphon Filter 2 (USA) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "16",
@@ -238,7 +253,8 @@
       "rom": "https://romsfun.com/download/fear-effect-26157/33",
       "destaque": false,
       "arquivoAntigo": "Fear Effect (USA) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "17",
@@ -253,7 +269,8 @@
       "rom": "https://romsfun.com/download/resident-evil-3-nemesis-9414/16",
       "destaque": false,
       "arquivoAntigo": "Resident Evil 3 - Nemesis (USA).chd",
-      "genero": "Terror"
+      "genero": "Terror",
+      "jogadores": 1
     },
     {
       "id": "18",
@@ -268,7 +285,8 @@
       "rom": "https://romsfun.com/download/dino-crisis-21850/20",
       "destaque": false,
       "arquivoAntigo": "Dino Crisis (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "19",
@@ -284,7 +302,8 @@
       "destaque": false,
       "arquivoAntigo": "Racing (USA) (EnFrEs).chd",
       "genero": "Corrida",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "20",
@@ -300,7 +319,8 @@
       "destaque": false,
       "arquivoAntigo": "X-Files The (USA) (Disc 1).chd",
       "genero": "Aventura",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "21",
@@ -315,7 +335,8 @@
       "rom": "https://romsfun.com/download/heart-of-darkness-25956/31",
       "destaque": false,
       "arquivoAntigo": "Heart of Darkness (USA) (Disc 1).chd",
-      "genero": "Aventura"
+      "genero": "Aventura",
+      "jogadores": 1
     },
     {
       "id": "22",
@@ -330,7 +351,8 @@
       "rom": "https://romsfun.com/download/__trashed-4-9395/12",
       "destaque": false,
       "arquivoAntigo": "Mortal Kombat Trilogy (USA).chd",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "23",
@@ -345,7 +367,8 @@
       "rom": "https://romsfun.com/download/alone-in-the-dark-the-new-nightmare-3-21929/25",
       "destaque": false,
       "arquivoAntigo": "Alone in the Dark - The New Nightmare (USA) (Disc 1).chd",
-      "genero": "Terror"
+      "genero": "Terror",
+      "jogadores": 1
     },
     {
       "id": "24",
@@ -361,7 +384,8 @@
       "destaque": false,
       "arquivoAntigo": "Silent Hill (USA).chd",
       "genero": "Terror",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "25",
@@ -376,7 +400,8 @@
       "rom": "https://romsfun.com/download/legend-2-131737/94",
       "destaque": false,
       "arquivoAntigo": "Legend of Dragoon The (USA) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "26",
@@ -391,7 +416,8 @@
       "rom": "https://romsfun.com/download/tomb-raider-3-adventures-of-lara-croft-25625/33",
       "destaque": false,
       "arquivoAntigo": "Tomb Raider III - Adventures of Lara Croft (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "27",
@@ -407,7 +433,8 @@
       "destaque": false,
       "arquivoAntigo": "Fear Effect 2 - Retro Helix (USA) (Disc 1).chd",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "28",
@@ -422,7 +449,8 @@
       "rom": "https://romsfun.com/download/galerians-22362/36",
       "destaque": false,
       "arquivoAntigo": "Galerians (USA) (Disc 1).chd",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "jogadores": 1
     },
     {
       "id": "29",
@@ -437,7 +465,8 @@
       "rom": "https://romsfun.com/download/d-3-129880/60",
       "destaque": false,
       "arquivoAntigo": "D (USA) (Disc 1).chd",
-      "genero": "Terror"
+      "genero": "Terror",
+      "jogadores": 1
     },
     {
       "id": "30",
@@ -452,7 +481,8 @@
       "rom": "https://romsfun.com/download/dino-crisis-2-21805/18",
       "destaque": false,
       "arquivoAntigo": "Dino Crisis 2 (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "31",
@@ -467,7 +497,8 @@
       "rom": "https://romsfun.com/download/vigilante-8-21793/24",
       "destaque": false,
       "arquivoAntigo": "Vigilante 8 (USA) (Rev 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 2
     },
     {
       "id": "32",
@@ -482,7 +513,8 @@
       "rom": "https://romsfun.com/download/spyro-the-dragon-21841/31",
       "destaque": false,
       "arquivoAntigo": "Spyro the Dragon (USA).chd",
-      "genero": "Plataforma"
+      "genero": "Plataforma",
+      "jogadores": 1
     },
     {
       "id": "33",
@@ -498,7 +530,8 @@
       "destaque": false,
       "arquivoAntigo": "Gran Turismo (USA).chd",
       "genero": "Corrida",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "34",
@@ -513,7 +546,8 @@
       "rom": "https://romsfun.com/download/riven-the-sequel-to-myst-24922/50",
       "destaque": false,
       "arquivoAntigo": "Riven - The Sequel to Myst (USA) (Disc 5).chd",
-      "genero": "Aventura"
+      "genero": "Aventura",
+      "jogadores": 1
     },
     {
       "id": "35",
@@ -528,7 +562,8 @@
       "rom": "https://romsfun.com/download/jackie-chan-stuntmaster-21856/6",
       "destaque": false,
       "arquivoAntigo": "Jackie Chan Stuntmaster (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "36",
@@ -543,7 +578,8 @@
       "rom": "https://romsfun.com/download/street-fighter-collection-25384/10",
       "destaque": false,
       "arquivoAntigo": "Street Fighter Collection (USA) (Disc 1).chd",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "37",
@@ -559,7 +595,8 @@
       "destaque": false,
       "arquivoAntigo": "Medal of Honor (USA).chd",
       "genero": "Tiro",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "38",
@@ -574,7 +611,8 @@
       "rom": "https://romsfun.com/download/spider-man-2-enter-electro-23701/12",
       "destaque": false,
       "arquivoAntigo": "Spider-Man 2 - Enter - Electro (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "39",
@@ -589,7 +627,8 @@
       "rom": "https://romsfun.com/download/tomb-raider-2-22338/13",
       "destaque": false,
       "arquivoAntigo": "Tomb Raider II - Starring Lara Croft (USA) (Rev 2).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "40",
@@ -604,7 +643,8 @@
       "rom": "https://romsfun.com/download/blade-2-26024/31",
       "destaque": false,
       "arquivoAntigo": "Blade (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "41",
@@ -619,7 +659,8 @@
       "rom": "https://romsfun.com/download/crash-bandicoot-2-cortex-strikes-back-21826/10",
       "destaque": false,
       "arquivoAntigo": "Crash Bandicoot 2 - Cortex Strikes Back (USA).chd",
-      "genero": "Plataforma"
+      "genero": "Plataforma",
+      "jogadores": 1
     },
     {
       "id": "42",
@@ -634,7 +675,8 @@
       "rom": "https://romsfun.com/download/yu-gi-oh-forbidden-memories-21747/7",
       "destaque": false,
       "arquivoAntigo": "Yu-Gi-Oh Forbidden Memories (Europe).chd",
-      "genero": "Estratégia"
+      "genero": "Estratégia",
+      "jogadores": 1
     },
     {
       "id": "43",
@@ -649,7 +691,8 @@
       "rom": "https://romsfun.com/download/doom-2-26100/16",
       "destaque": false,
       "arquivoAntigo": "Doom (USA).chd",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "jogadores": 1
     },
     {
       "id": "44",
@@ -664,7 +707,8 @@
       "rom": "https://romsfun.com/download/pac-man-world-4-21784/15",
       "destaque": false,
       "arquivoAntigo": "Pac-Man World - 20th Anniversary (USA).chd",
-      "genero": "Plataforma"
+      "genero": "Plataforma",
+      "jogadores": 1
     },
     {
       "id": "45",
@@ -679,7 +723,8 @@
       "rom": "https://romsfun.com/download/legacy-of-kain-soul-reaver-22749/16",
       "destaque": false,
       "arquivoAntigo": "Legacy of Kain - Soul Reaver (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "46",
@@ -694,7 +739,8 @@
       "rom": "https://romsfun.com/download/tekken-2-25676/16",
       "destaque": false,
       "arquivoAntigo": "Tekken 2 (USA).chd",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "47",
@@ -709,7 +755,8 @@
       "rom": "https://romsfun.com/download/parasite-eve-25560/4",
       "destaque": false,
       "arquivoAntigo": "Parasite Eve (USA) (Disc 1).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "48",
@@ -725,7 +772,8 @@
       "destaque": false,
       "arquivoAntigo": "Star Ocean - The Second Story (USA) (Disc 2).chd",
       "genero": "RPG",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "49",
@@ -740,7 +788,8 @@
       "rom": "https://romsfun.com/download/command-conquer-28593/24",
       "destaque": false,
       "arquivoAntigo": "Command Conquer (USA) (Disc 1) (GDI).chd",
-      "genero": "Estratégia"
+      "genero": "Estratégia",
+      "jogadores": 1
     },
     {
       "id": "50",
@@ -756,7 +805,8 @@
       "destaque": false,
       "arquivoAntigo": "One (USA).chd",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     }
   ],
   "ps2": [
@@ -773,7 +823,8 @@
       "rom": "https://romsfun.com/download/resident-evil-4-12946/5",
       "destaque": true,
       "arquivoAntigo": "Resident Evil 4 (USA).iso",
-      "genero": "Terror"
+      "genero": "Terror",
+      "jogadores": 1
     },
     {
       "id": "1",
@@ -789,7 +840,8 @@
       "destaque": true,
       "arquivoAntigo": "Metal Gear Solid 3 - Subsistence (Europe) (EnFr) (Disc 3) (Existence).iso",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "2",
@@ -804,7 +856,8 @@
       "rom": "https://romsfun.com/download/god-of-war-ii-12928/5",
       "destaque": true,
       "arquivoAntigo": "God of War II (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "3",
@@ -819,7 +872,8 @@
       "rom": "https://romsfun.com/download/grand-theft-auto-san-andreas-id-1-12950/10",
       "destaque": true,
       "arquivoAntigo": "Grand Theft Auto - San Andreas (USA) (v3.00).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "4",
@@ -834,7 +888,8 @@
       "rom": "https://romsfun.com/download/metal-gear-solid-2-sons-of-liberty-88355/10",
       "destaque": true,
       "arquivoAntigo": "Metal Gear Solid 2 - Sons of Liberty (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "5",
@@ -849,7 +904,8 @@
       "rom": "https://romsfun.com/download/god-of-war-169969-70788/5",
       "destaque": true,
       "arquivoAntigo": "God of War (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "6",
@@ -864,7 +920,8 @@
       "rom": "https://romsfun.com/download/grand-theft-auto-vice-city-15552/14",
       "destaque": true,
       "arquivoAntigo": "Grand Theft Auto - Vice City (USA) (v3.00).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "7",
@@ -879,7 +936,8 @@
       "rom": "https://romsfun.com/download/shadow-of-the-colossus-64993-14607/5",
       "destaque": true,
       "arquivoAntigo": "Shadow of the Colossus (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "8",
@@ -894,7 +952,8 @@
       "rom": "https://romsfun.com/download/wwe-smackdown-here-comes-the-pain-12960/3",
       "destaque": true,
       "arquivoAntigo": "WWE SmackDown Here Comes the Pain (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "9",
@@ -910,7 +969,8 @@
       "destaque": true,
       "arquivoAntigo": "Final Fantasy X (USA).iso",
       "genero": "RPG",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "10",
@@ -925,7 +985,8 @@
       "rom": "https://romsfun.com/download/dragonball-z-budokai-tenkaichi-3-1-12934/2",
       "destaque": false,
       "arquivoAntigo": "Dragon Ball Z - Budokai Tenkaichi 3 (USA) (En,Ja).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "11",
@@ -940,7 +1001,8 @@
       "rom": "https://romsfun.com/download/tekken-5-12925/7",
       "destaque": false,
       "arquivoAntigo": "Tekken 5 (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "12",
@@ -955,7 +1017,8 @@
       "rom": "https://romsfun.com/download/gran-turismo-4-68036-12973/13",
       "destaque": false,
       "arquivoAntigo": "Gran Turismo 4 (USA) (v2.00).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "13",
@@ -970,7 +1033,8 @@
       "rom": "https://romsfun.com/download/burnout-3-demo-disc-140407/3",
       "destaque": false,
       "arquivoAntigo": "PS Mania 2.0 Spaccacodici - Burnout 3 (Italy) (Unl).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "14",
@@ -986,7 +1050,8 @@
       "destaque": false,
       "arquivoAntigo": "Devil May Cry 3 - Dantes Awakening (Europe) (EnFrDeEsIt) (Special Edition).iso",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "15",
@@ -1001,7 +1066,8 @@
       "rom": "https://romsfun.com/download/kingdom-hearts-12957/11",
       "destaque": false,
       "arquivoAntigo": "Kingdom Hearts (USA).iso",
-      "genero": "RPG"
+      "genero": "RPG",
+      "jogadores": 1
     },
     {
       "id": "16",
@@ -1017,7 +1083,8 @@
       "destaque": false,
       "arquivoAntigo": "Need for Speed - Most Wanted (USA) (v2.00).iso",
       "genero": "Corrida",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "17",
@@ -1032,7 +1099,8 @@
       "rom": "https://romsfun.com/download/dragonball-z-budokai-3-14592/6",
       "destaque": false,
       "arquivoAntigo": "Dragon Ball Z - Budokai Tenkaichi 3 (USA) (EnJa).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 2
     },
     {
       "id": "18",
@@ -1048,7 +1116,8 @@
       "destaque": false,
       "arquivoAntigo": "Hitman - Blood Money (USA).iso",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "19",
@@ -1064,7 +1133,8 @@
       "destaque": false,
       "arquivoAntigo": "Def Jam - Fight for NY (USA).iso",
       "genero": "Luta",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "20",
@@ -1079,7 +1149,8 @@
       "rom": "https://romsfun.com/download/need-for-speed-underground-2-54135-14795/9",
       "destaque": false,
       "arquivoAntigo": "Need for Speed - Underground 2 (USA).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 1
     },
     {
       "id": "21",
@@ -1094,7 +1165,8 @@
       "rom": "https://romsfun.com/download/ratchet-clank-id2-14885/8",
       "destaque": false,
       "arquivoAntigo": "Ratchet Clank (USA) (EnFrDeEsIt).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "22",
@@ -1110,7 +1182,8 @@
       "destaque": false,
       "arquivoAntigo": "WWE SmackDown vs. Raw (USA).iso",
       "genero": "Luta",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "23",
@@ -1125,7 +1198,8 @@
       "rom": "https://romsfun.com/download/devil-may-cry-1-14589/6",
       "destaque": false,
       "arquivoAntigo": "Devil May Cry (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "24",
@@ -1140,7 +1214,8 @@
       "rom": "https://romsfun.com/download/downhill-domination-12988/4",
       "destaque": false,
       "arquivoAntigo": "Downhill Domination (USA).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "25",
@@ -1155,7 +1230,8 @@
       "rom": "https://romsfun.com/download/prince-of-persia-the-sands-of-time-15177/6",
       "destaque": false,
       "arquivoAntigo": "Prince of Persia - The Sands of Time (USA) (EnFrEs).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "26",
@@ -1170,7 +1246,8 @@
       "rom": "https://romsfun.com/download/guitar-hero-87661/4",
       "destaque": false,
       "arquivoAntigo": "Guitar Hero (USA).iso",
-      "genero": "Música"
+      "genero": "Música",
+      "jogadores": 2
     },
     {
       "id": "27",
@@ -1185,7 +1262,8 @@
       "rom": "https://romsfun.com/download/prince-of-persia-warrior-within-3-70946",
       "destaque": false,
       "arquivoAntigo": "Prince of Persia - Warrior Within (USA) (EnFrEs).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "28",
@@ -1200,7 +1278,8 @@
       "rom": "https://romsfun.com/download/tekken-tag-tournament-1-15040/8",
       "destaque": false,
       "arquivoAntigo": "Tekken Tag Tournament (USA) (v1.00).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "29",
@@ -1215,7 +1294,8 @@
       "rom": "https://romsfun.com/download/black-14576/8",
       "destaque": false,
       "arquivoAntigo": "Black (USA).iso",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "jogadores": 1
     },
     {
       "id": "30",
@@ -1231,7 +1311,8 @@
       "destaque": false,
       "arquivoAntigo": "God Hand (USA).iso",
       "genero": "Ação",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 1
     },
     {
       "id": "31",
@@ -1246,7 +1327,8 @@
       "rom": "https://romsfun.com/download/midnight-club-3-dub-edition-2-16069/3",
       "destaque": false,
       "arquivoAntigo": "Midnight Club 3 - DUB Edition (USA) (v2.00).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 1
     },
     {
       "id": "32",
@@ -1262,7 +1344,8 @@
       "destaque": false,
       "arquivoAntigo": "NSUN5 Lat [Beta 5] [NTSC].iso",
       "genero": "Luta",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "33",
@@ -1278,7 +1361,8 @@
       "destaque": false,
       "arquivoAntigo": "WWE SmackDown vs. Raw 2011 (USA) (EnFrEs).iso",
       "genero": "Luta",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "34",
@@ -1293,7 +1377,8 @@
       "rom": "https://romsfun.com/download/spider-man-5-16807/11",
       "destaque": false,
       "arquivoAntigo": "Spider-Man (USA) (v2.01).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "35",
@@ -1308,7 +1393,8 @@
       "rom": "https://romsfun.com/download/sengoku-basara-2-heroes-89367/1",
       "destaque": false,
       "arquivoAntigo": "Sengoku Basara 2 - Heroes (Japan).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 2
     },
     {
       "id": "36",
@@ -1323,7 +1409,8 @@
       "rom": "https://romsfun.com/download/onimusha-dawn-of-dreams-14633/4",
       "destaque": false,
       "arquivoAntigo": "Onimusha - Dawn of Dreams (USA) (Disc 2).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "37",
@@ -1339,7 +1426,8 @@
       "destaque": false,
       "arquivoAntigo": "Mortal Kombat - Armageddon (USA).iso",
       "genero": "Luta",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "38",
@@ -1354,7 +1442,8 @@
       "rom": "https://romsfun.com/download/need-for-speed-carbon-15154/9",
       "destaque": false,
       "arquivoAntigo": "Need for Speed - Carbon (USA).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "39",
@@ -1369,7 +1458,8 @@
       "rom": "https://romsfun.com/download/tekken-4-14678/10",
       "destaque": false,
       "arquivoAntigo": "Tekken 4 (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "jogadores": 2
     },
     {
       "id": "40",
@@ -1384,7 +1474,8 @@
       "rom": "https://romsfun.com/download/jet-li-rise-to-honor-87945/2",
       "destaque": false,
       "arquivoAntigo": "Jet Li - Rise to Honor (USA) (EnZh).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "41",
@@ -1400,7 +1491,8 @@
       "destaque": false,
       "arquivoAntigo": "PES 2011 - Pro Evolution Soccer (USA).iso",
       "genero": "Esporte",
-      "logoOpaco": true
+      "logoOpaco": true,
+      "jogadores": 2
     },
     {
       "id": "42",
@@ -1415,7 +1507,8 @@
       "rom": "https://romsfun.com/download/driver-parallel-lines-2-16717/8",
       "destaque": false,
       "arquivoAntigo": "Driver - Parallel Lines (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "43",
@@ -1430,7 +1523,8 @@
       "rom": "https://romsfun.com/download/battlefield-2-modern-combat-14750/10",
       "destaque": false,
       "arquivoAntigo": "Battlefield 2 - Modern Combat (USA).iso",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "jogadores": 1
     },
     {
       "id": "44",
@@ -1445,7 +1539,8 @@
       "rom": "https://romsfun.com/download/disney-pixar-cars-18361/11",
       "destaque": false,
       "arquivoAntigo": "Disney-Pixar Cars (USA).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 2
     },
     {
       "id": "45",
@@ -1460,7 +1555,8 @@
       "rom": "https://romsfun.com/download/crash-nitro-kart-2-15141/4",
       "destaque": false,
       "arquivoAntigo": "Crash Nitro Kart (USA).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "jogadores": 4
     },
     {
       "id": "46",
@@ -1475,7 +1571,8 @@
       "rom": "https://romsfun.com/download/crash-bandicoot-the-wrath-of-cortex-53877-15347/6",
       "destaque": false,
       "arquivoAntigo": "Crash Bandicoot - The Wrath of Cortex (USA) (v1.01).iso",
-      "genero": "Plataforma"
+      "genero": "Plataforma",
+      "jogadores": 1
     },
     {
       "id": "47",
@@ -1490,7 +1587,8 @@
       "rom": "https://romsfun.com/download/sega-superstars-tennis-4-107153/2",
       "destaque": false,
       "arquivoAntigo": "Sega Superstars Tennis (USA) (En,Fr,De,Es,It).iso",
-      "genero": "Esporte"
+      "genero": "Esporte",
+      "jogadores": 4
     },
     {
       "id": "48",
@@ -1505,7 +1603,8 @@
       "rom": "https://romsfun.com/download/call-of-duty-world-at-war-final-fronts-15833/3",
       "destaque": false,
       "arquivoAntigo": "Call of Duty - World at War - Final Fronts (USA) (EnFr).iso",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "jogadores": 1
     },
     {
       "id": "49",
@@ -1520,7 +1619,8 @@
       "rom": "https://romsfun.com/download/devil-may-cry-2-15536/12",
       "destaque": false,
       "arquivoAntigo": "Devil May Cry 2 (USA) (Disc 1).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "50",
@@ -1535,7 +1635,8 @@
       "rom": "https://romsfun.com/download/madagascar-escape-2-africa-5-165487/3",
       "destaque": false,
       "geradoPorIA": true,
-      "genero": "Aventura"
+      "genero": "Aventura",
+      "jogadores": 1
     },
     {
       "id": "51",
@@ -1550,7 +1651,8 @@
       "rom": "https://romsfun.com/download/the-simpsons-hit-run-2-16483/2",
       "destaque": true,
       "geradoPorIA": true,
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "52",
@@ -1565,7 +1667,8 @@
       "rom": "https://romsfun.com/download/lego-batman-the-videogame-26616-16048/3",
       "destaque": true,
       "geradoPorIA": true,
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 2
     },
     {
       "id": "53",
@@ -1580,7 +1683,8 @@
       "rom": "https://romsfun.com/download/scarface-the-world-is-yours-15036/6",
       "destaque": true,
       "geradoPorIA": true,
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "54",
@@ -1595,7 +1699,8 @@
       "rom": "https://romsfun.com/download/yakuza-106911/6",
       "destaque": false,
       "geradoPorIA": true,
-      "genero": "Ação"
+      "genero": "Ação",
+      "jogadores": 1
     },
     {
       "id": "55",
@@ -1610,7 +1715,8 @@
       "rom": "https://romsfun.com/download/killzone-15020/11",
       "destaque": false,
       "genero": "Tiro",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "56",
@@ -1625,7 +1731,8 @@
       "rom": "https://romsfun.com/download/madagascar-6-107291/10",
       "destaque": false,
       "genero": "Plataforma",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "57",
@@ -1640,7 +1747,8 @@
       "rom": "https://romsfun.com/download/the-godfather-the-game-15733/2",
       "destaque": false,
       "genero": "Ação",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 1
     },
     {
       "id": "58",
@@ -1655,7 +1763,8 @@
       "rom": "https://romsfun.com/download/toy-story-3-4-142109/2",
       "destaque": false,
       "genero": "Aventura",
-      "geradoPorIA": true
+      "geradoPorIA": true,
+      "jogadores": 2
     },
     {
       "id": "59",
