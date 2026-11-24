@@ -1795,6 +1795,21 @@
       "destaque": false,
       "genero": "Ação",
       "geradoPorIA": true
+    },
+    {
+      "id": "61",
+      "titulo": "Ultimate Spider-Man",
+      "desc": "Em Ultimate Spider-Man, Peter Parker e Miles Morales enfrentam uma trama que une vilões icônicos e alianças inesperadas, enquanto o herói balança pelos arranha-céus de Nova Iorque. O jogo combina combate fluido, exploração livre da cidade e uma narrativa que celebra a história do Homem-Aranha, oferecendo ação constante e momentos de humor característico.",
+      "capa": "covers/covers_ps2/ultimate-spider-man.webp",
+      "logo": "play_game_logos/ultimate-spider-man-logo.webp",
+      "background": "backgrounds/ultimate-spider-man-hero.webp",
+      "hours": "15h",
+      "year": "2005",
+      "rate": "8.2",
+      "rom": "https://romsfun.com/download/ultimate-spider-man-3-18330/5",
+      "destaque": false,
+      "genero": "Ação",
+      "geradoPorIA": true
     }
   ]
 }
