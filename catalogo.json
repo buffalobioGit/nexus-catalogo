@@ -1967,6 +1967,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "72",
+      "titulo": "Batman: Vengeance",
+      "desc": "Em \"Batman: Vengeance\", o Cavaleiro das Trevas retorna a Gotham para enfrentar uma conspiração que ameaça a cidade. Enquanto investiga pistas, ele enfrenta vilões icônicos em combates intensos e resolve enigmas que testam sua astúcia, tudo com a atmosfera sombria característica da série.",
+      "capa": "covers/covers_ps2/batman-vengeance.webp",
+      "logo": "play_game_logos/batman-vengeance-logo.webp",
+      "background": "backgrounds/batman-vengeance-hero.webp",
+      "hours": "8h",
+      "year": "2001",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/batman-vengeance-3-70674/3",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
