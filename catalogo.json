@@ -1626,6 +1626,21 @@
       "destaque": false,
       "genero": "Plataforma",
       "geradoPorIA": true
+    },
+    {
+      "id": "57",
+      "titulo": "The Godfather: The Don's Edition",
+      "desc": "Mergulhe no submundo da máfia como Michael Corleone, tomando decisões que moldam o império familiar. Entre em missões de extorsão, assassinato e negociação, enquanto equilibra lealdade e ambição em uma narrativa inspirada no clássico cinematográfico.",
+      "capa": "covers/covers_ps2/the-godfather-the-don-s-edition.webp",
+      "logo": "play_game_logos/the-godfather-the-don-s-edition-logo.webp",
+      "background": "backgrounds/the-godfather-the-don-s-edition-hero.webp",
+      "hours": "15h",
+      "year": "2006",
+      "rate": "7.8",
+      "rom": "https://romsfun.com/download/the-godfather-the-game-15733/2",
+      "destaque": false,
+      "genero": "Ação",
+      "geradoPorIA": true
     }
   ]
 }
