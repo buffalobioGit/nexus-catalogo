@@ -2051,6 +2051,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "2",
+      "titulo": "SpongeBob SquarePants: Battle for Bikini Bottom",
+      "desc": "SpongeBob SquarePants: Battle for Bikini Bottom coloca o icônico herói submarino em uma missão para salvar Bikini Bottom das forças do vilão Plankton. Explore locais vibrantes, resolva quebra‑cabeças leves e enfrente inimigos usando habilidades únicas de SpongeBob, Patrick e Sandy, tudo com humor característico da série.",
+      "capa": "covers/covers_gc/spongebob-squarepants-battle-for-bikini-bottom.webp",
+      "logo": "play_game_logos/spongebob-squarepants-battle-for-bikini-bottom-logo.webp",
+      "background": "backgrounds/spongebob-squarepants-battle-for-bikini-bottom-hero.webp",
+      "hours": "12h",
+      "year": "2003",
+      "rate": "8.0",
+      "rom": "https://romsfun.com/download/spongebob-squarepants-battle-for-bikini-bottom-deluxe-gc-339423/1",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ]
 }
