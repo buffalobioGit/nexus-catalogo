@@ -283,7 +283,8 @@
       "rom": "https://romsfun.com/download/racing-133470/2",
       "destaque": false,
       "arquivoAntigo": "Racing (USA) (EnFrEs).chd",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "logoOpaco": true
     },
     {
       "id": "20",
@@ -298,7 +299,8 @@
       "rom": "https://romsfun.com/download/the-x-files-24476/45",
       "destaque": false,
       "arquivoAntigo": "X-Files The (USA) (Disc 1).chd",
-      "genero": "Aventura"
+      "genero": "Aventura",
+      "logoOpaco": true
     },
     {
       "id": "21",
@@ -358,7 +360,8 @@
       "rom": "https://romsfun.com/download/silent-hill-21820/22",
       "destaque": false,
       "arquivoAntigo": "Silent Hill (USA).chd",
-      "genero": "Terror"
+      "genero": "Terror",
+      "logoOpaco": true
     },
     {
       "id": "25",
@@ -403,7 +406,8 @@
       "rom": "https://romsfun.com/download/fear-effect-2-retro-helix-25269/18",
       "destaque": false,
       "arquivoAntigo": "Fear Effect 2 - Retro Helix (USA) (Disc 1).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     },
     {
       "id": "28",
@@ -493,7 +497,8 @@
       "rom": "https://romsfun.com/download/gran-turismo-6657-25646/19",
       "destaque": false,
       "arquivoAntigo": "Gran Turismo (USA).chd",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "logoOpaco": true
     },
     {
       "id": "34",
@@ -553,7 +558,8 @@
       "rom": "https://romsfun.com/download/medal-of-honor-21877/12",
       "destaque": false,
       "arquivoAntigo": "Medal of Honor (USA).chd",
-      "genero": "Tiro"
+      "genero": "Tiro",
+      "logoOpaco": true
     },
     {
       "id": "38",
@@ -718,7 +724,8 @@
       "rom": "https://romsfun.com/download/star-ocean-the-second-story-23348/26",
       "destaque": false,
       "arquivoAntigo": "Star Ocean - The Second Story (USA) (Disc 2).chd",
-      "genero": "RPG"
+      "genero": "RPG",
+      "logoOpaco": true
     },
     {
       "id": "49",
@@ -748,7 +755,8 @@
       "rom": "https://romsfun.com/download/one-132860/117",
       "destaque": false,
       "arquivoAntigo": "One (USA).chd",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     }
   ],
   "ps2": [
@@ -780,7 +788,8 @@
       "rom": "https://romsfun.com/download/metal-gear-solid-3-subsistence-14711/4",
       "destaque": true,
       "arquivoAntigo": "Metal Gear Solid 3 - Subsistence (Europe) (EnFr) (Disc 3) (Existence).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     },
     {
       "id": "2",
@@ -900,7 +909,8 @@
       "rom": "https://romsfun.com/download/final-fantasy-x-12931/8",
       "destaque": true,
       "arquivoAntigo": "Final Fantasy X (USA).iso",
-      "genero": "RPG"
+      "genero": "RPG",
+      "logoOpaco": true
     },
     {
       "id": "10",
@@ -975,7 +985,8 @@
       "rom": "https://romsfun.com/download/devil-may-cry-3-dantes-awakening-special-edition-3-86968/1",
       "destaque": false,
       "arquivoAntigo": "Devil May Cry 3 - Dantes Awakening (Europe) (EnFrDeEsIt) (Special Edition).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     },
     {
       "id": "15",
@@ -1005,7 +1016,8 @@
       "rom": "https://romsfun.com/download/need-for-speed-most-wanted-and-black-edition-15062/9",
       "destaque": false,
       "arquivoAntigo": "Need for Speed - Most Wanted (USA) (v2.00).iso",
-      "genero": "Corrida"
+      "genero": "Corrida",
+      "logoOpaco": true
     },
     {
       "id": "17",
@@ -1035,7 +1047,8 @@
       "rom": "https://romsfun.com/download/hitman-blood-money-15291/7",
       "destaque": false,
       "arquivoAntigo": "Hitman - Blood Money (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     },
     {
       "id": "19",
@@ -1050,7 +1063,8 @@
       "rom": "https://romsfun.com/download/def-jam-fight-for-ny-3-70729/5",
       "destaque": false,
       "arquivoAntigo": "Def Jam - Fight for NY (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "logoOpaco": true
     },
     {
       "id": "20",
@@ -1095,7 +1109,8 @@
       "rom": "https://romsfun.com/download/wwe-smackdown-vs-raw-14610/7",
       "destaque": false,
       "arquivoAntigo": "WWE SmackDown vs. Raw (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "logoOpaco": true
     },
     {
       "id": "23",
@@ -1215,7 +1230,8 @@
       "rom": "https://romsfun.com/download/god-hand-13011/6",
       "destaque": false,
       "arquivoAntigo": "God Hand (USA).iso",
-      "genero": "Ação"
+      "genero": "Ação",
+      "logoOpaco": true
     },
     {
       "id": "31",
@@ -1245,7 +1261,8 @@
       "rom": "https://romsfun.com/download/naruto-shippuden-ultimate-ninja-5-latino-218519/1",
       "destaque": false,
       "arquivoAntigo": "NSUN5 Lat [Beta 5] [NTSC].iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "logoOpaco": true
     },
     {
       "id": "33",
@@ -1260,7 +1277,8 @@
       "rom": "https://romsfun.com/download/wwe-smackdown-vs-raw-2011-12943/2",
       "destaque": false,
       "arquivoAntigo": "WWE SmackDown vs. Raw 2011 (USA) (EnFrEs).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "logoOpaco": true
     },
     {
       "id": "34",
@@ -1320,7 +1338,8 @@
       "rom": "https://romsfun.com/download/mortal-kombat-armageddon-id2-14636/2",
       "destaque": false,
       "arquivoAntigo": "Mortal Kombat - Armageddon (USA).iso",
-      "genero": "Luta"
+      "genero": "Luta",
+      "logoOpaco": true
     },
     {
       "id": "38",
@@ -1380,7 +1399,8 @@
       "rom": "https://romsfun.com/download/pro-evolution-soccer-2011-15090/4",
       "destaque": false,
       "arquivoAntigo": "PES 2011 - Pro Evolution Soccer (USA).iso",
-      "genero": "Esporte"
+      "genero": "Esporte",
+      "logoOpaco": true
     },
     {
       "id": "42",
