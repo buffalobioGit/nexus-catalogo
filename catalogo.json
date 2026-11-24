@@ -1810,6 +1810,19 @@
       "destaque": false,
       "genero": "Ação",
       "geradoPorIA": true
+    },
+    {
+      "id": "62",
+      "titulo": "WALL·E",
+      "desc": "",
+      "capa": "covers/covers_ps2/wall-e.webp",
+      "logo": "play_game_logos/wall-e-logo.webp",
+      "background": "backgrounds/wall-e-hero.webp",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/wall-e-4-166904/9",
+      "destaque": false
     }
   ]
 }
