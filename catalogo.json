@@ -1903,6 +1903,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "68",
+      "titulo": "Disney•Pixar Brave: The Video Game",
+      "desc": "Em Brave, você acompanha Merida, a princesa escocesa rebelde, em uma jornada para desfazer uma maldição que transformou sua família em ursos. Explore florestas encantadas, enfrente criaturas míticas e descubra segredos enquanto domina o arco e a magia dos ancestrais.",
+      "capa": "covers/covers_ps2/disney-pixar-brave-the-video-game.webp",
+      "logo": "play_game_logos/disney-pixar-brave-the-video-game-logo.webp",
+      "background": "backgrounds/disney-pixar-brave-the-video-game-hero.webp",
+      "hours": "6h",
+      "year": "2009",
+      "rate": "7.0",
+      "rom": "https://romsfun.com/download/disney-pixar-ratatouille-19324/11",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
