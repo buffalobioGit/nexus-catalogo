@@ -2518,6 +2518,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "109",
+      "titulo": "Shrek 2",
+      "desc": "Em Shrek 2, o ogro favorito embarca numa jornada cheia de humor e magia para salvar seu casamento, enfrentando desafios em um reino repleto de criaturas fantásticas. Com personagens carismáticos e cenários vibrantes, o jogo mistura exploração, puzzles e combates leves, oferecendo uma experiência divertida para fãs da franquia.",
+      "capa": "covers/covers_ps2/shrek-2.webp",
+      "logo": "play_game_logos/shrek-2-logo.webp",
+      "background": "backgrounds/shrek-2-hero.webp",
+      "hours": "8h",
+      "year": "2004",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/shrek-2-4-70983/9",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
