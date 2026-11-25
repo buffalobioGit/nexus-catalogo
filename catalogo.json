@@ -2316,6 +2316,19 @@
       "genero": "Ação",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "94",
+      "titulo": "Persona 4 Arena Ultimax",
+      "desc": "",
+      "capa": "covers/covers_ps2/persona-4-arena-ultimax.webp",
+      "logo": "play_game_logos/persona-4-arena-ultimax-logo.webp",
+      "background": "backgrounds/persona-4-arena-ultimax-hero.webp",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/persona-4-70940/4",
+      "destaque": false
     }
   ],
   "psp": [
