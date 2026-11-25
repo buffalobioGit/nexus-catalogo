@@ -2329,6 +2329,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/persona-4-70940/4",
       "destaque": false
+    },
+    {
+      "id": "95",
+      "titulo": "Shadow the Hedgehog",
+      "desc": "Shadow the Hedgehog coloca o anti‑herói em uma jornada sombria, onde decisões morais influenciam o rumo da história. Em um mundo repleto de ação frenética, ele enfrenta inimigos poderosos enquanto desvenda conspirações que ameaçam o planeta, tudo com uma atmosfera mais adulta e cheia de adrenalina.",
+      "capa": "covers/covers_ps2/shadow-the-hedgehog.webp",
+      "logo": "play_game_logos/shadow-the-hedgehog-logo.webp",
+      "background": "backgrounds/shadow-the-hedgehog-hero.webp",
+      "hours": "12h",
+      "year": "2005",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/shadow-the-hedgehog-2-16417/3",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
