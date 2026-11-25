@@ -2659,5 +2659,23 @@
       "jogadores": 1,
       "geradoPorIA": true
     }
+  ],
+  "gba": [
+    {
+      "id": "1",
+      "titulo": "Pokémon Emerald Version",
+      "desc": "Em um mundo vibrante repleto de ilhas e desafios, você assume o papel de um jovem treinador que busca se tornar o campeão da Liga Pokémon enquanto desvenda a misteriosa trama da Equipe Magma e da Equipe Aqua. Explore a região de Hoenn, capture criaturas únicas e teste suas estratégias em batalhas intensas, tudo enquanto descobre segredos que mudarão o destino da região.",
+      "capa": "covers/covers_gba/pokemon-emerald-version.webp",
+      "logo": "play_game_logos/pokemon-emerald-version-logo.webp",
+      "background": "backgrounds/pokemon-emerald-version-hero.webp",
+      "hours": "30h",
+      "year": "2004",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/pokemon-emerald-2516/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
+    }
   ]
 }
