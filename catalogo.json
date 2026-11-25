@@ -2300,6 +2300,22 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "93",
+      "titulo": "Mortal Kombat: Shaolin Monks",
+      "desc": "Mortal Kombat: Shaolin Monks leva os lendários Liu Kang e Kung Lao a uma jornada épica pelos reinos de Outworld, combinando combates brutais com exploração de ambientes interativos. O jogo mistura a ação visceral da série com sequências de plataforma, permitindo que dois jogadores enfrentem inimigos juntos em modo cooperativo.",
+      "capa": "covers/covers_ps2/mortal-kombat-shaolin-monks.webp",
+      "logo": "play_game_logos/mortal-kombat-shaolin-monks-logo.webp",
+      "background": "backgrounds/mortal-kombat-shaolin-monks-hero.webp",
+      "hours": "10h",
+      "year": "2005",
+      "rate": "8.2",
+      "rom": "https://romsfun.com/download/mortal-kombat-shaolin-monks-ps2-2-106937/3",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
