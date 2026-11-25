@@ -2256,6 +2256,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "3",
+      "titulo": "Sonic Adventure 2: Battle",
+      "desc": "Sonic Adventure 2: Battle leva o icônico ouriço azul a uma corrida frenética entre heróis e vilões, combinando velocidade alucinante com missões cheias de ação e exploração. Em duas campanhas paralelas, você alterna entre personagens com habilidades únicas, desvendando uma trama de redenção enquanto coleta anéis e enfrenta desafios épicos.",
+      "capa": "covers/covers_gc/sonic-adventure-2-battle.webp",
+      "logo": "play_game_logos/sonic-adventure-2-battle-logo.webp",
+      "background": "backgrounds/sonic-adventure-2-battle-hero.webp",
+      "hours": "15h",
+      "year": "2001",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/sonic-adventure-2-battle-27760/3",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ]
 }
