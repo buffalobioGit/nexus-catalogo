@@ -2502,6 +2502,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "110",
+      "titulo": "Iron Man",
+      "desc": "Assuma o papel de Tony Stark, o gênio bilionário, e pilote a armadura do Homem de Ferro em missões cheias de ação e explosões. Explore ambientes urbanos e industriais enquanto enfrenta inimigos armados, desvenda conspirações e aprimora seu traje com novas armas e habilidades. Cada nível combina combate aéreo, tiroteios intensos e desafios de plataforma, oferecendo uma experiência cinematográfica baseada no universo dos quadrinhos.",
+      "capa": "covers/covers_ps2/iron-man.webp",
+      "logo": "play_game_logos/iron-man-logo.webp",
+      "background": "backgrounds/iron-man-hero.webp",
+      "hours": "8h",
+      "year": "2008",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/iron-man-3-15512/1",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
