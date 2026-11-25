@@ -2345,6 +2345,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "96",
+      "titulo": "Tom and Jerry in War of the Whiskers",
+      "desc": "Tom e Jerry embarcam em uma disputa frenética cheia de armadilhas e power‑ups, onde o clássico gato e rato transformam a casa em um campo de batalha caótico. Cada personagem traz movimentos únicos e humor característico, proporcionando combates divertidos e cheios de ação para todas as idades.",
+      "capa": "covers/covers_ps2/tom-and-jerry-in-war-of-the-whiskers.webp",
+      "logo": "play_game_logos/tom-and-jerry-in-war-of-the-whiskers-logo.webp",
+      "background": "backgrounds/tom-and-jerry-in-war-of-the-whiskers-hero.webp",
+      "hours": "6h",
+      "year": "2002",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/tom-and-jerry-in-war-of-the-whiskers-16756/2",
+      "destaque": false,
+      "genero": "Luta",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
