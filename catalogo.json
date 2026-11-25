@@ -2605,5 +2605,23 @@
       "jogadores": 2,
       "geradoPorIA": true
     }
+  ],
+  "nes": [
+    {
+      "id": "1",
+      "titulo": "Super Mario Bros. 3",
+      "desc": "Mario retorna ao Reino dos Cogumelos em uma aventura épica, percorrendo oito mundos repletos de desafios criativos, inimigos carismáticos e power-ups inovadores que transformam a jogabilidade. Cada nível oferece segredos a descobrir, caminhos alternativos e chefões memoráveis, garantindo uma experiência vibrante e cheia de descobertas para jogadores de todas as idades.",
+      "capa": "covers/covers_nes/super-mario-bros-3.webp",
+      "logo": "play_game_logos/super-mario-bros-3-logo.webp",
+      "background": "backgrounds/super-mario-bros-3-hero.webp",
+      "hours": "8h",
+      "year": "1990",
+      "rate": "9.5",
+      "rom": "https://romsfun.com/download/super-mario-bros-3-2-29054/8",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 2,
+      "geradoPorIA": true
+    }
   ]
 }
