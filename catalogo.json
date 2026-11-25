@@ -2284,6 +2284,22 @@
       "genero": "Corrida",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "92",
+      "titulo": "Scooby-Doo",
+      "desc": "Scooby-Doo! Night of 100 Frights coloca o famoso time de detetives em uma aventura cheia de mistérios e armadilhas. Enquanto Scooby e Salsicha correm pelos corredores assombrados, o jogador resolve quebra-cabeças, coleta itens e enfrenta criaturas sobrenaturais para desvendar o vilão por trás da noite de terror. A atmosfera combina humor clássico da série com desafios de plataforma que testam reflexos e raciocínio.",
+      "capa": "covers/covers_ps2/scooby-doo.webp",
+      "logo": "play_game_logos/scooby-doo-logo.webp",
+      "background": "backgrounds/scooby-doo-hero.webp",
+      "hours": "8h",
+      "year": "2002",
+      "rate": "7.2",
+      "rom": "https://romsfun.com/download/scooby-doo-first-frights-3-141685/2",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
