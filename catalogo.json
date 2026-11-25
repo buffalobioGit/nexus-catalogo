@@ -2206,22 +2206,6 @@
       "genero": "Tiro",
       "jogadores": 2,
       "geradoPorIA": true
-    },
-    {
-      "id": "2",
-      "titulo": "Nanodiver",
-      "desc": "Nanodiver coloca o jogador no papel de um piloto de mecha que deve enfrentar hordas de inimigos em ambientes futuristas repletos de obstáculos e chefões desafiadores. Com gráficos vibrantes e trilha sonora pulsante, o jogo combina ação frenética e plataformas precisas, oferecendo uma experiência intensa e cativante para os fãs de shooters side‑scroll.",
-      "capa": "",
-      "logo": "",
-      "background": "",
-      "hours": "8h",
-      "year": "2008",
-      "rate": "7.5",
-      "rom": "https://romsfun.com/download/nanodiver-17193",
-      "destaque": false,
-      "genero": "Ação",
-      "jogadores": 1,
-      "geradoPorIA": true
     }
   ],
   "gc": [
