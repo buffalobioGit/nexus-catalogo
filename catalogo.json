@@ -2140,6 +2140,22 @@
       "genero": "Corrida",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "84",
+      "titulo": "Sonic Heroes",
+      "desc": "Sonic Heroes reúne três equipes de heróis, cada uma com três personagens que combinam habilidades distintas, em uma corrida contra o tempo para impedir o plano maligno de Dr. Eggman. Cada equipe oferece estilos de jogo únicos, permitindo que o jogador alterne entre velocidade, força e estratégia enquanto explora níveis vibrantes cheios de segredos e desafios.",
+      "capa": "covers/covers_ps2/sonic-heroes.webp",
+      "logo": "play_game_logos/sonic-heroes-logo.webp",
+      "background": "backgrounds/sonic-heroes-hero.webp",
+      "hours": "15h",
+      "year": "2003",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/sonic-heroes-3-16219/4",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
