@@ -2252,6 +2252,22 @@
       "genero": "Ação",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "90",
+      "titulo": "LEGO Star Wars: The Video Game",
+      "desc": "Embarque em uma aventura épica repleta de humor, onde os icônicos personagens da saga galáctica são reconstruídos em blocos de LEGO. Explore planetas, resolva quebra-cabeças criativos e participe de batalhas dinâmicas, tudo enquanto revive os momentos mais marcantes da trilogia original com uma abordagem leve e divertida.",
+      "capa": "covers/covers_ps2/lego-star-wars-the-video-game.webp",
+      "logo": "play_game_logos/lego-star-wars-the-video-game-logo.webp",
+      "background": "backgrounds/lego-star-wars-the-video-game-hero.webp",
+      "hours": "10h",
+      "year": "2005",
+      "rate": "8.2",
+      "rom": "https://romsfun.com/download/lego-star-wars-the-video-game-3-106897/4",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
