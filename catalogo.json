@@ -2499,6 +2499,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "106",
+      "titulo": "Ice Age",
+      "desc": "Em um mundo gelado e cheio de humor, Manny, Sid e Diego embarcam numa jornada para resgatar um filhote humano perdido. A aventura combina plataformas desafiadoras, quebra-cabeças divertidos e momentos de comédia que capturam o espírito dos filmes.",
+      "capa": "covers/covers_ps2/ice-age.webp",
+      "logo": "play_game_logos/ice-age-logo.webp",
+      "background": "backgrounds/ice-age-hero.webp",
+      "hours": "6h",
+      "year": "2002",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/ice-age-3-dawn-of-the-dinosaurs-19093/1",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
