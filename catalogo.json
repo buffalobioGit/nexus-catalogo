@@ -2060,6 +2060,22 @@
       "genero": "Luta",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "79",
+      "titulo": "Marvel vs. Capcom 2: New Age of Heroes",
+      "desc": "Marvel vs. Capcom 2 reúne personagens icônicos dos universos da Marvel e da Capcom em batalhas frenéticas e cheias de combos. O ritmo acelerado, a variedade de lutadores e os estágios interativos criam confrontos épicos que mantêm tanto novatos quanto veteranos vidrados na tela. Cada duelo é uma explosão de ação que celebra o melhor dos dois mundos, oferecendo diversão constante e desafios estratégicos.",
+      "capa": "covers/covers_ps2/marvel-vs-capcom-2-new-age-of-heroes.webp",
+      "logo": "play_game_logos/marvel-vs-capcom-2-new-age-of-heroes-logo.webp",
+      "background": "backgrounds/marvel-vs-capcom-2-new-age-of-heroes-hero.webp",
+      "hours": "10h",
+      "year": "2000",
+      "rate": "9.0",
+      "rom": "https://romsfun.com/download/marvel-vs-capcom-2-new-age-of-heroes-2-15782/6",
+      "destaque": false,
+      "genero": "Luta",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
