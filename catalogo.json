@@ -2623,5 +2623,23 @@
       "jogadores": 2,
       "geradoPorIA": true
     }
+  ],
+  "atari2600": [
+    {
+      "id": "1",
+      "titulo": "Pac-Man",
+      "desc": "Pac-Man leva o icônico labirinto para a tela da Atari 2600, onde o jogador controla o amarelo comedor de pontos enquanto foge dos fantasmas famintos. Cada nível traz desafios de ritmo e estratégia, exigindo movimentos precisos para limpar o labirinto antes que o tempo acabe.",
+      "capa": "covers/covers_atari2600/pac-man.webp",
+      "logo": "play_game_logos/pac-man-logo.webp",
+      "background": "backgrounds/pac-man-hero.webp",
+      "hours": "5h",
+      "year": "1982",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/pac-man-5-183012/1",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
+    }
   ]
 }
