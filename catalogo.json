@@ -2044,6 +2044,22 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "78",
+      "titulo": "Marvel Nemesis: Rise of the Imperfects",
+      "desc": "Em um universo alternativo, heróis e vilões da Marvel se unem em batalhas caóticas para impedir a destruição de seu mundo. Cada personagem traz habilidades únicas, proporcionando combates intensos e cheios de estratégia. A trama mistura humor e ação, oferecendo uma experiência de luta distinta para fãs da franquia.",
+      "capa": "covers/covers_ps2/marvel-nemesis-rise-of-the-imperfects.webp",
+      "logo": "play_game_logos/marvel-nemesis-rise-of-the-imperfects-logo.webp",
+      "background": "backgrounds/marvel-nemesis-rise-of-the-imperfects-hero.webp",
+      "hours": "8h",
+      "year": "2006",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/marvel-nemesis-rise-of-the-imperfects-4-16499/1",
+      "destaque": false,
+      "genero": "Luta",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
