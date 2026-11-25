@@ -2172,6 +2172,22 @@
       "genero": "Tiro",
       "jogadores": 4,
       "geradoPorIA": true
+    },
+    {
+      "id": "87",
+      "titulo": "Call of Duty: Finest Hour",
+      "desc": "Em meio ao caos da Segunda Guerra Mundial, Call of Duty: Finest Hour coloca o jogador no centro de três frentes distintas, desde as ruas de Stalingrado até as praias da Normandia. Cada missão oferece uma experiência imersiva, combinando tiroteios intensos, estratégias táticas e momentos cinematográficos que capturam a brutalidade e o heroísmo do conflito.",
+      "capa": "covers/covers_ps2/call-of-duty-finest-hour.webp",
+      "logo": "play_game_logos/call-of-duty-finest-hour-logo.webp",
+      "background": "backgrounds/call-of-duty-finest-hour-hero.webp",
+      "hours": "7h",
+      "year": "2004",
+      "rate": "8.0",
+      "rom": "https://romsfun.com/download/call-of-duty-finest-hour-4-164409/5",
+      "destaque": false,
+      "genero": "Tiro",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
