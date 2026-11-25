@@ -2108,6 +2108,22 @@
       "genero": "RPG",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "82",
+      "titulo": "Sonic Unleashed",
+      "desc": "Sonic Unleashed acompanha o ouriço azul em uma jornada épica para restaurar o mundo após ser despedaçado por um misterioso vilão. Dividido entre fases de alta velocidade em terra firme e transformações em criaturas poderosas nas áreas diurnas, o jogo mistura ação frenética com exploração vibrante, oferecendo desafios que testam tanto reflexos quanto estratégia.",
+      "capa": "covers/covers_ps2/sonic-unleashed.webp",
+      "logo": "play_game_logos/sonic-unleashed-logo.webp",
+      "background": "backgrounds/sonic-unleashed-hero.webp",
+      "hours": "12h",
+      "year": "2008",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/sonic-unleashed-3-71001/2",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
