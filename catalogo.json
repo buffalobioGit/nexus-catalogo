@@ -2425,6 +2425,22 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "101",
+      "titulo": "Guitar Hero III: Legends of Rock",
+      "desc": "Guitar Hero III: Legends of Rock coloca você no centro dos maiores palcos do rock, desafiando suas habilidades com uma guitarra de plástico enquanto acompanha clássicos de lendas como Jimi Hendrix e Metallica. Cada música traz trilhas de notas que exigem ritmo preciso, oferecendo uma experiência musical eletrizante que captura a energia dos shows ao vivo.",
+      "capa": "covers/covers_ps2/guitar-hero-iii-legends-of-rock.webp",
+      "logo": "play_game_logos/guitar-hero-iii-legends-of-rock-logo.webp",
+      "background": "backgrounds/guitar-hero-iii-legends-of-rock-hero.webp",
+      "hours": "30h",
+      "year": "2007",
+      "rate": "9.0",
+      "rom": "https://romsfun.com/download/guitar-hero-iii-legends-of-rock-3-14620/6",
+      "destaque": false,
+      "genero": "Música",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
