@@ -2076,6 +2076,22 @@
       "genero": "Luta",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "80",
+      "titulo": "Marvel: Ultimate Alliance",
+      "desc": "Em Marvel: Ultimate Alliance, você reúne um grupo de heróis icônicos para impedir que o vilão Loki domine o universo. Explore ambientes vibrantes, combata hordas de inimigos e combine habilidades únicas de cada personagem, criando estratégias dinâmicas enquanto desbrava uma narrativa épica repleta de humor e referências ao universo Marvel.",
+      "capa": "covers/covers_ps2/marvel-ultimate-alliance.webp",
+      "logo": "play_game_logos/marvel-ultimate-alliance-logo.webp",
+      "background": "backgrounds/marvel-ultimate-alliance-hero.webp",
+      "hours": "15h",
+      "year": "2006",
+      "rate": "8.2",
+      "rom": "https://romsfun.com/download/marvel-ultimate-alliance-15530/2",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
