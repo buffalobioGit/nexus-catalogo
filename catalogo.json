@@ -2361,6 +2361,22 @@
       "genero": "Luta",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "97",
+      "titulo": "Digimon Rumble Arena 2",
+      "desc": "Em um torneio interdimensional, os Digimons mais poderosos se enfrentam em arenas cheias de armadilhas e power‑ups, oferecendo combates frenéticos e cheios de estratégia. Cada personagem traz habilidades únicas, permitindo aos jogadores criar combos devastadores enquanto exploram ambientes vibrantes inspirados no universo digital.",
+      "capa": "covers/covers_ps2/digimon-rumble-arena-2.webp",
+      "logo": "play_game_logos/digimon-rumble-arena-2-logo.webp",
+      "background": "backgrounds/digimon-rumble-arena-2-hero.webp",
+      "hours": "8h",
+      "year": "2004",
+      "rate": "7.0",
+      "rom": "https://romsfun.com/download/digimon-rumble-arena-2-70736/2",
+      "destaque": false,
+      "genero": "Luta",
+      "jogadores": 4,
+      "geradoPorIA": true
     }
   ],
   "psp": [
