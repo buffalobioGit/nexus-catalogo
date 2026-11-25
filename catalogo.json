@@ -2156,6 +2156,22 @@
       "genero": "Plataforma",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "85",
+      "titulo": "Sonic Riders: Zero Gravity",
+      "desc": "Em Sonic Riders: Zero Gravity, os corredores mais velozes da franquia enfrentam desafios em pistas flutuantes, usando gravidade manipulável para ganhar vantagem. Com novos personagens e veículos, a corrida mistura velocidade frenética e estratégias de manobras aéreas, oferecendo corridas intensas e cheias de adrenalina.",
+      "capa": "covers/covers_ps2/sonic-riders-zero-gravity.webp",
+      "logo": "play_game_logos/sonic-riders-zero-gravity-logo.webp",
+      "background": "backgrounds/sonic-riders-zero-gravity-hero.webp",
+      "hours": "15h",
+      "year": "2007",
+      "rate": "7.2",
+      "rom": "https://romsfun.com/download/sonic-riders-zero-gravity-15125/2",
+      "destaque": false,
+      "genero": "Corrida",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
