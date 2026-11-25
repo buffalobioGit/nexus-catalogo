@@ -2483,6 +2483,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "105",
+      "titulo": "Ice Age 2: The Meltdown",
+      "desc": "Sid, Manny e Diego embarcam numa corrida contra o tempo para impedir que um vulcão em erupção destrua a sua casa gelada. Cheios de humor e desafios, eles atravessam ambientes congelados e tropicais, usando habilidades únicas para superar obstáculos e inimigos.",
+      "capa": "covers/covers_ps2/ice-age-2-the-meltdown.webp",
+      "logo": "play_game_logos/ice-age-2-the-meltdown-logo.webp",
+      "background": "backgrounds/ice-age-2-the-meltdown-hero.webp",
+      "hours": "8h",
+      "year": "2006",
+      "rate": "7.2",
+      "rom": "https://romsfun.com/download/ice-age-2-the-meltdown-3-107213/3",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
