@@ -2489,6 +2489,19 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "107",
+      "titulo": "Ghostbusters: The Video Game",
+      "desc": "",
+      "capa": "covers/covers_ps2/ghostbusters-the-video-game.webp",
+      "logo": "play_game_logos/ghostbusters-the-video-game-logo.webp",
+      "background": "backgrounds/ghostbusters-the-video-game-hero.webp",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/ghostbusters-the-video-game-6-107426/2",
+      "destaque": false
     }
   ],
   "psp": [
