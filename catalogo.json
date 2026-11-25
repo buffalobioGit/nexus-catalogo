@@ -2518,6 +2518,19 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "111",
+      "titulo": "Bee Movie Game",
+      "desc": "",
+      "capa": "covers/covers_ps2/bee-movie-game.webp",
+      "logo": "play_game_logos/bee-movie-game-logo.webp",
+      "background": "backgrounds/bee-movie-game-hero.webp",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/bee-movie-game-4-107255/2",
+      "destaque": false
     }
   ],
   "psp": [
