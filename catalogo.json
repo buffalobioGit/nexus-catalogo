@@ -2587,5 +2587,23 @@
       "jogadores": 2,
       "geradoPorIA": true
     }
+  ],
+  "snes": [
+    {
+      "id": "1",
+      "titulo": "Super Mario World",
+      "desc": "Em um mundo vibrante repleto de florestas, desertos e castelos flutuantes, Mario parte em uma jornada para resgatar a Princesa Peach das garras de Bowser. Acompanhado por Yoshi, ele explora rotas secretas, coleta power-ups icônicos e enfrenta desafios que testam sua habilidade e criatividade, tudo com um ritmo que combina ação e exploração de forma única.",
+      "capa": "covers/covers_snes/super-mario-world.webp",
+      "logo": "play_game_logos/super-mario-world-logo.webp",
+      "background": "backgrounds/super-mario-world-hero.webp",
+      "hours": "15h",
+      "year": "1990",
+      "rate": "9.5",
+      "rom": "https://romsfun.com/download/super-mario-world-7020/3",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 2,
+      "geradoPorIA": true
+    }
   ]
 }
