@@ -2044,6 +2044,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/fifa-14-legacy-edition-3-140667/1",
       "destaque": false
+    },
+    {
+      "id": "77",
+      "titulo": "Ratatouille",
+      "desc": "Em Ratatouille, você controla o talentoso ratinho Remy enquanto ele explora a cozinha de um renomado chef parisiense, superando obstáculos e resolvendo desafios culinários. A aventura combina humor e criatividade, trazendo a magia do filme para uma jogabilidade cheia de ação e exploração.",
+      "capa": "covers/covers_ps2/ratatouille.webp",
+      "logo": "play_game_logos/ratatouille-logo.webp",
+      "background": "backgrounds/ratatouille-hero.webp",
+      "hours": "6h",
+      "year": "2000",
+      "rate": "7.8",
+      "rom": "https://romsfun.com/download/ratatouille-7-141597/11",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
