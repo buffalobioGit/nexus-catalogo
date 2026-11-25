@@ -2092,6 +2092,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "81",
+      "titulo": "Marvel: Ultimate Alliance 2",
+      "desc": "Os heróis da Marvel se unem para impedir que o vilão Loki destrua o universo, formando equipes de até quatro personagens com habilidades únicas. Explore ambientes icônicos, combata hordas de inimigos e desbloqueie novos poderes enquanto avança na trama cheia de humor e referências ao universo dos quadrinhos.",
+      "capa": "covers/covers_ps2/marvel-ultimate-alliance-2.webp",
+      "logo": "play_game_logos/marvel-ultimate-alliance-2-logo.webp",
+      "background": "backgrounds/marvel-ultimate-alliance-2-hero.webp",
+      "hours": "12h",
+      "year": "2009",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/marvel-ultimate-alliance-2-4-16116/2",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
