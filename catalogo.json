@@ -2377,6 +2377,22 @@
       "genero": "Luta",
       "jogadores": 4,
       "geradoPorIA": true
+    },
+    {
+      "id": "98",
+      "titulo": "Over the Hedge",
+      "desc": "Em Over the Hedge, um grupo de animais urbanos liderado por o esquilo RJ precisa coletar comida para sobreviver ao inverno, enfrentando desafios e armadilhas espalhadas por um bairro suburbano. A jogabilidade combina saltos precisos, quebra-cabeças leves e humor, enquanto os personagens exploram ambientes vibrantes e cheios de detalhes. Cada nível oferece novas estratégias para driblar guardas humanos e alcançar o objetivo antes que o tempo acabe.",
+      "capa": "covers/covers_ps2/over-the-hedge.webp",
+      "logo": "play_game_logos/over-the-hedge-logo.webp",
+      "background": "backgrounds/over-the-hedge-hero.webp",
+      "hours": "6h",
+      "year": "2006",
+      "rate": "7.5",
+      "rom": "https://romsfun.com/download/over-the-hedge-2-19795/4",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
