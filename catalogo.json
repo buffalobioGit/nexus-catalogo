@@ -2441,6 +2441,19 @@
       "genero": "Música",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "102",
+      "titulo": "Infinitely up 5",
+      "desc": "",
+      "capa": "",
+      "logo": "",
+      "background": "",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/up-5-166860/5",
+      "destaque": false
     }
   ],
   "psp": [
