@@ -2641,5 +2641,23 @@
       "jogadores": 1,
       "geradoPorIA": true
     }
+  ],
+  "gb": [
+    {
+      "id": "1",
+      "titulo": "Pokémon Red Version",
+      "desc": "Em um mundo repleto de criaturas fantásticas, você assume o papel de um jovem treinador que parte em uma jornada para capturar, treinar e evoluir Pokémon. Explorando cidades vibrantes, florestas misteriosas e desafios de ginásios, você desvenda segredos antigos enquanto busca se tornar o maior mestre da região.",
+      "capa": "covers/covers_gb/pokemon-red-version.webp",
+      "logo": "play_game_logos/pokemon-red-version-logo.webp",
+      "background": "backgrounds/pokemon-red-version-hero.webp",
+      "hours": "30h",
+      "year": "1996",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/pokemon-cock-version-127060/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
+    }
   ]
 }
