@@ -2156,6 +2156,22 @@
       "genero": "Corrida",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "86",
+      "titulo": "Call of Duty 3",
+      "desc": "Em meio ao caos da Segunda Guerra Mundial, Call of Duty 3 coloca o jogador no centro de intensas batalhas nas frentes da Europa, África e Pacífico. Cada missão oferece ação frenética, ambientes detalhados e uma narrativa que destaca o heroísmo e a dureza do conflito, tudo com uma jogabilidade que combina tiroteios precisos e estratégias táticas.",
+      "capa": "covers/covers_ps2/call-of-duty-3.webp",
+      "logo": "play_game_logos/call-of-duty-3-logo.webp",
+      "background": "backgrounds/call-of-duty-3-hero.webp",
+      "hours": "6h",
+      "year": "2006",
+      "rate": "8.0",
+      "rom": "https://romsfun.com/download/call-of-duty-3-14626/4",
+      "destaque": false,
+      "genero": "Tiro",
+      "jogadores": 4,
+      "geradoPorIA": true
     }
   ],
   "psp": [
