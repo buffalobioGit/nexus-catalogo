@@ -2393,6 +2393,22 @@
       "genero": "Plataforma",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "99",
+      "titulo": "Barnyard",
+      "desc": "Em Barnyard, você assume o papel de Otis, um jovem touro que lidera um grupo de animais travessos em uma fazenda cheia de segredos. Explore ambientes vibrantes, participe de mini‑jogos caóticos e descubra a vida secreta dos animais quando os humanos não estão por perto.",
+      "capa": "covers/covers_ps2/barnyard.webp",
+      "logo": "play_game_logos/barnyard-logo.webp",
+      "background": "backgrounds/barnyard-hero.webp",
+      "hours": "6h",
+      "year": "2006",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/barnyard-4-140289/4",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
