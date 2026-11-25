@@ -2409,6 +2409,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "100",
+      "titulo": "Despicable Me: The Game",
+      "desc": "Em Despicable Me: The Game, você acompanha Gru e seus adoráveis Minions em missões cheias de humor e ação, enquanto tenta roubar a lua e enfrentar rivais. O jogo combina plataformas, quebra-cabeças leves e combates divertidos, trazendo o charme dos filmes para a jogabilidade.",
+      "capa": "covers/covers_ps2/despicable-me-the-game.webp",
+      "logo": "play_game_logos/despicable-me-the-game-logo.webp",
+      "background": "backgrounds/despicable-me-the-game-hero.webp",
+      "hours": "8h",
+      "year": "2010",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/despicable-me-the-game-2-140543/2",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
