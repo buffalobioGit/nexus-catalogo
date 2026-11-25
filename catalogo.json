@@ -2467,6 +2467,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/g-force-disney-interactive-87518",
       "destaque": false
+    },
+    {
+      "id": "104",
+      "titulo": "Ice Age: Dawn of the Dinosaurs",
+      "desc": "Em um mundo pré-histórico repleto de humor, Manny, Sid e Diego embarcam numa jornada para resgatar o filhote de Sid, sequestrado por dinossauros. Explorando cavernas vibrantes e enfrentando criaturas gigantes, o trio combina habilidades únicas para superar desafios e restaurar a paz na sua família.",
+      "capa": "covers/covers_ps2/ice-age-dawn-of-the-dinosaurs.webp",
+      "logo": "play_game_logos/ice-age-dawn-of-the-dinosaurs-logo.webp",
+      "background": "backgrounds/ice-age-dawn-of-the-dinosaurs-hero.webp",
+      "hours": "8h",
+      "year": "2003",
+      "rate": "7.2",
+      "rom": "https://romsfun.com/download/ice-age-dawn-of-the-dinosaurs-4-140927",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
