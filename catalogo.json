@@ -2502,6 +2502,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/ghostbusters-the-video-game-6-107426/2",
       "destaque": false
+    },
+    {
+      "id": "108",
+      "titulo": "Monsters vs. Aliens",
+      "desc": "Em um mundo onde criaturas gigantes e alienígenas colidem, você controla personagens icônicos da franquia enquanto enfrenta hordas de invasores com armas improvisadas e habilidades únicas. Cada fase combina humor e ação frenética, oferecendo desafios que exigem estratégia e reflexos rápidos, sem revelar detalhes cruciais da trama.",
+      "capa": "covers/covers_ps2/monsters-vs-aliens.webp",
+      "logo": "play_game_logos/monsters-vs-aliens-logo.webp",
+      "background": "backgrounds/monsters-vs-aliens-hero.webp",
+      "hours": "6h",
+      "year": "2009",
+      "rate": "6.5",
+      "rom": "https://romsfun.com/download/monsters-vs-aliens-5-165675/2",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
