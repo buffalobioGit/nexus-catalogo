@@ -2268,6 +2268,22 @@
       "genero": "Ação",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "91",
+      "titulo": "LEGO Racers 2",
+      "desc": "Em LEGO Racers 2, os jogadores competem em pistas cheias de criatividade, usando veículos construídos com blocos de LEGO que podem ser personalizados com armas e habilidades especiais. A corrida combina velocidade, estratégia e humor, oferecendo desafios variados que vão desde circuitos urbanos até mundos fantásticos, tudo com o charme característico dos brinquedos de construção.",
+      "capa": "covers/covers_ps2/lego-racers-2.webp",
+      "logo": "play_game_logos/lego-racers-2-logo.webp",
+      "background": "backgrounds/lego-racers-2-hero.webp",
+      "hours": "10h",
+      "year": "2001",
+      "rate": "7.6",
+      "rom": "https://romsfun.com/download/lego-racers-2-88188/3",
+      "destaque": false,
+      "genero": "Corrida",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "psp": [
