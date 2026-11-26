@@ -2706,6 +2706,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "4",
+      "titulo": "The Legend of Zelda: Link's Awakening DX",
+      "desc": "Em uma ilha misteriosa, Link desperta sem memória e deve desvendar segredos antigos para escapar. Explorando vilarejos pitorescos, enfrentando criaturas peculiares e resolvendo enigmas, ele coleta instrumentos que revelam a verdade por trás da ilha. Uma jornada cativante que combina exploração, desafios e charme retro.",
+      "capa": "covers/covers_gb/the-legend-of-zelda-link-s-awakening-dx.webp",
+      "logo": "play_game_logos/the-legend-of-zelda-link-s-awakening-dx-logo.webp",
+      "background": "backgrounds/the-legend-of-zelda-link-s-awakening-dx-hero.webp",
+      "hours": "10h",
+      "year": "1998",
+      "rate": "9.2",
+      "rom": "https://romsfun.com/download/legend-of-zelda-the-links-awakening-dx-20412/7",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
