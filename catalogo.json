@@ -2620,6 +2620,22 @@
       "genero": "Aventura",
       "jogadores": 4,
       "geradoPorIA": true
+    },
+    {
+      "id": "4",
+      "titulo": "Donkey Kong Country",
+      "desc": "Em Donkey Kong Country, o icônico macaco Donkey Kong e seu fiel companheiro Diddy embarcam numa jornada vibrante pelos exuberantes territórios da Ilha Kongo para recuperar o precioso suprimento de bananas roubado por um exército de criaturas selvagens. Com gráficos revolucionários em pré-renderização e trilha sonora contagiante, o jogo combina desafios de plataforma precisos, segredos escondidos e chefões memoráveis, oferecendo uma experiência que cativa tanto veteranos quanto novatos.",
+      "capa": "covers/covers_snes/donkey-kong-country.webp",
+      "logo": "play_game_logos/donkey-kong-country-logo.webp",
+      "background": "backgrounds/donkey-kong-country-hero.webp",
+      "hours": "8h",
+      "year": "1994",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/donkey-kong-country-v1-id2-7028/3",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "nes": [
