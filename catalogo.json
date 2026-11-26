@@ -2636,6 +2636,22 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "5",
+      "titulo": "Super Mario World 2: Yoshi's Island",
+      "desc": "Em Yoshi's Island, o dinossauro verde assume a missão de proteger o bebê Mario enquanto atravessa uma ilha repleta de ambientes vibrantes e cheios de segredos. Cada nível combina desafios de plataforma com mecânicas inovadoras, como a capacidade de carregar inimigos e usar seu peso para resolver quebra‑cabeças, oferecendo uma experiência que mistura nostalgia e criatividade sem precedentes.",
+      "capa": "covers/covers_snes/super-mario-world-2-yoshi-s-island.webp",
+      "logo": "play_game_logos/super-mario-world-2-yoshi-s-island-logo.webp",
+      "background": "backgrounds/super-mario-world-2-yoshi-s-island-hero.webp",
+      "hours": "12h",
+      "year": "1995",
+      "rate": "9.2",
+      "rom": "https://romsfun.com/download/super-mario-world-2-yoshis-island-7110/4",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "nes": [
