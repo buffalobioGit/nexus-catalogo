@@ -2501,22 +2501,6 @@
       "genero": "Ação",
       "jogadores": 1,
       "geradoPorIA": true
-    },
-    {
-      "id": "115",
-      "titulo": "Resident Evil 4",
-      "desc": "Leon S. Kennedy viaja a uma vila remota na Espanha para resgatar a filha do presidente dos EUA, enfrentando moradores infectados por um parasita misterioso. O jogo combina tensão, puzzles e tiroteios intensos, oferecendo uma experiência cinematográfica que redefiniu o survival horror com controles ágeis e cenários memoráveis.",
-      "capa": "covers/covers_ps2/resident-evil-4.webp",
-      "logo": "play_game_logos/resident-evil-4-logo.webp",
-      "background": "backgrounds/resident-evil-4-hero.webp",
-      "hours": "15h",
-      "year": "2005",
-      "rate": "9.0",
-      "rom": "https://romsfun.com/download/resident-evil-4-5-166070/4",
-      "destaque": false,
-      "genero": "Ação",
-      "jogadores": 1,
-      "geradoPorIA": true
     }
   ],
   "psp": [
