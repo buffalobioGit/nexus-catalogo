@@ -2604,6 +2604,22 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "3",
+      "titulo": "The Legend of Zelda: A Link to the Past & Four Swords",
+      "desc": "Em um reino dividido entre luz e trevas, o jovem herói parte em uma jornada épica para resgatar a princesa e restaurar o equilíbrio. Explorando masmorras intricadas, resolvendo enigmas e enfrentando criaturas lendárias, ele desvenda segredos antigos que moldam o destino de Hyrule.",
+      "capa": "covers/covers_snes/the-legend-of-zelda-a-link-to-the-past-four-swords.webp",
+      "logo": "play_game_logos/the-legend-of-zelda-a-link-to-the-past-four-swords-logo.webp",
+      "background": "backgrounds/the-legend-of-zelda-a-link-to-the-past-four-swords-hero.webp",
+      "hours": "15h",
+      "year": "1991",
+      "rate": "9.5",
+      "rom": "https://romsfun.com/download/legend-of-zelda-the-a-link-to-the-past-7093/5",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 4,
+      "geradoPorIA": true
     }
   ],
   "nes": [
