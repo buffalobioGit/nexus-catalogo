@@ -2502,6 +2502,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/bee-movie-game-4-107255/2",
       "destaque": false
+    },
+    {
+      "id": "112",
+      "titulo": "Shrek the Third",
+      "desc": "Em Shrek the Third, o ogro mais querido do reino embarca numa jornada inesperada para encontrar o herdeiro perdido e impedir que o vilão tome o trono. Ao lado de seus amigos, ele atravessa florestas, castelos e cidades cheias de humor, enfrentando desafios que testam sua coragem e criatividade.",
+      "capa": "covers/covers_ps2/shrek-the-third.webp",
+      "logo": "play_game_logos/shrek-the-third-logo.webp",
+      "background": "backgrounds/shrek-the-third-hero.webp",
+      "hours": "6h",
+      "year": "2007",
+      "rate": "5.6",
+      "rom": "https://romsfun.com/download/shrek-the-third-5-141753/4",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
