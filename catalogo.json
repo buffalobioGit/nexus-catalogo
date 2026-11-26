@@ -2738,6 +2738,22 @@
       "genero": "Plataforma",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "6",
+      "titulo": "Pokémon Silver Version",
+      "desc": "Em Pokémon Silver, o jogador assume o papel de um jovem treinador que viaja pela região de Johto, capturando criaturas extraordinárias e desafiando líderes de ginásio para se tornar o Campeão. Ao longo da jornada, mistérios antigos são revelados, incluindo a lendária história de um Pokémon mítico que protege o equilíbrio do mundo. A aventura combina exploração, estratégia de batalhas e a descoberta de segredos que conectam Johto ao passado de Kanto.",
+      "capa": "covers/covers_gb/pokemon-silver-version.webp",
+      "logo": "play_game_logos/pokemon-silver-version-logo.webp",
+      "background": "backgrounds/pokemon-silver-version-hero.webp",
+      "hours": "30h",
+      "year": "1999",
+      "rate": "8.6",
+      "rom": "https://romsfun.com/download/pokemon-silver-version-20267/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
