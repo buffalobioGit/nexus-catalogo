@@ -2681,6 +2681,22 @@
       "rate": "",
       "rom": "https://romsfun.com/download/aladdin-7152/7",
       "destaque": false
+    },
+    {
+      "id": "8",
+      "titulo": "Final Fantasy VI Advance",
+      "desc": "Em um mundo onde a magia foi proibida, um grupo de heróis improváveis se une para enfrentar um império tirânico que busca controlar o poder de uma antiga tecnologia. Cada personagem traz uma história única, e suas jornadas entrelaçadas revelam segredos sombrios enquanto lutam para restaurar a esperança e a liberdade. A narrativa épica combina drama, humor e reviravoltas que mantêm o jogador imerso do início ao fim.",
+      "capa": "covers/covers_snes/final-fantasy-vi-advance.webp",
+      "logo": "play_game_logos/final-fantasy-vi-advance-logo.webp",
+      "background": "backgrounds/final-fantasy-vi-advance-hero.webp",
+      "hours": "40h",
+      "year": "1994",
+      "rate": "9.3",
+      "rom": "https://romsfun.com/download/final-fantasy-vi-2-8071/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "nes": [
