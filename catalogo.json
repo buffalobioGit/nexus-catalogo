@@ -859,22 +859,6 @@
       "jogadores": 1
     },
     {
-      "id": "5",
-      "titulo": "God Of War",
-      "desc": "Kratos, o guerreiro espartano assombrado por seu passado, embarca em uma busca sangrenta para derrotar Ares, o Deus da Guerra. Explore a Grécia Antiga e enfrente criaturas mitológicas com as icônicas Lâminas do Caos.",
-      "capa": "covers/covers_ps2/god-of-war.webp",
-      "logo": "play_game_logos/god-of-war.webp",
-      "background": "backgrounds/god-of-war.webp",
-      "hours": "9h",
-      "year": "2005",
-      "rate": "9.3",
-      "rom": "https://romsfun.com/download/god-of-war-169969-70788/5",
-      "destaque": true,
-      "arquivoAntigo": "God of War (USA).iso",
-      "genero": "Ação",
-      "jogadores": 1
-    },
-    {
       "id": "6",
       "titulo": "Grand Theft Auto: Vice City",
       "desc": "Tommy Vercetti chega à ensolarada Vice City nos anos 80 para expandir um império criminoso. Entre em um mundo de luzes neon, músicas icônicas e muita ação enquanto sobe na hierarquia do crime nesta metrópole.",
