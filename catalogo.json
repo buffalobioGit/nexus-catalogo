@@ -2722,6 +2722,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "5",
+      "titulo": "Super Mario Bros. Deluxe",
+      "desc": "Em Super Mario Bros. Deluxe, Mario embarca em uma jornada clássica pelos Reino dos Cogumelos, enfrentando desafios icônicos e inimigos memoráveis enquanto tenta resgatar a Princesa Peach. O jogo traz níveis refinados, power-ups estratégicos e modos adicionais que ampliam a diversão, oferecendo uma experiência nostálgica e cativante para novos e veteranos jogadores.",
+      "capa": "covers/covers_gb/super-mario-bros-deluxe.webp",
+      "logo": "play_game_logos/super-mario-bros-deluxe-logo.webp",
+      "background": "backgrounds/super-mario-bros-deluxe-hero.webp",
+      "hours": "8h",
+      "year": "1999",
+      "rate": "9.0",
+      "rom": "https://romsfun.com/download/super-mario-bros-deluxe-20287/6",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "gba": [
