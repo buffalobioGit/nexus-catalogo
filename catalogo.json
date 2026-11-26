@@ -2604,6 +2604,22 @@
       "genero": "Plataforma",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "2",
+      "titulo": "Super Mario All-Stars",
+      "desc": "Super Mario All-Stars reúne os clássicos da série em uma coletânea remasterizada para o Super Nintendo, trazendo gráficos aprimados e trilha sonora refinada. Cada título oferece desafios de plataforma icônicos, combinando saltos precisos, inimigos memoráveis e mundos vibrantes que cativam tanto veteranos quanto novos jogadores.",
+      "capa": "covers/covers_snes/super-mario-all-stars.webp",
+      "logo": "play_game_logos/super-mario-all-stars-logo.webp",
+      "background": "backgrounds/super-mario-all-stars-hero.webp",
+      "hours": "12h",
+      "year": "1991",
+      "rate": "9.2",
+      "rom": "https://romsfun.com/download/super-mario-all-stars-7037/2",
+      "destaque": false,
+      "genero": "Plataforma",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "nes": [
