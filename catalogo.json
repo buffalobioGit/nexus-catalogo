@@ -2754,6 +2754,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "7",
+      "titulo": "The Legend of Zelda: Oracle of Ages",
+      "desc": "Em Oracle of Ages, Link é transportado para o reino de Holodrum, onde o tempo está em caos. Ele deve viajar entre passado e futuro, resolvendo enigmas ambientais e derrotando criaturas para restaurar a ordem temporal e salvar a princesa Nayru. A jornada combina exploração, combate e puzzles que exigem raciocínio rápido e estratégia.",
+      "capa": "covers/covers_gb/the-legend-of-zelda-oracle-of-ages.webp",
+      "logo": "play_game_logos/the-legend-of-zelda-oracle-of-ages-logo.webp",
+      "background": "backgrounds/the-legend-of-zelda-oracle-of-ages-hero.webp",
+      "hours": "15h",
+      "year": "2001",
+      "rate": "9.0",
+      "rom": "https://romsfun.com/download/legend-of-zelda-the-oracle-of-ages-20365/2",
+      "destaque": false,
+      "genero": "Aventura",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
