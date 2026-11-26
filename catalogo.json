@@ -2674,6 +2674,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "2",
+      "titulo": "Pokémon Crystal Version",
+      "desc": "Em Pokémon Crystal, o jogador embarca em uma jornada por Johto, capturando criaturas únicas e desvendando mistérios que vão além da tradicional Liga Pokémon. A trama introduz o lendário Pokémon Suicune e traz novidades como a forma feminina dos personagens, além de eventos que mudam conforme o relógio interno do jogo, oferecendo uma experiência dinâmica e imersiva.",
+      "capa": "covers/covers_gb/pokemon-crystal-version.webp",
+      "logo": "play_game_logos/pokemon-crystal-version-logo.webp",
+      "background": "backgrounds/pokemon-crystal-version-hero.webp",
+      "hours": "30h",
+      "year": "2000",
+      "rate": "8.6",
+      "rom": "https://romsfun.com/download/pokmon-crystal-version-110173/2",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
