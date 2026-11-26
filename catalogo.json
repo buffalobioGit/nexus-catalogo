@@ -2770,6 +2770,22 @@
       "genero": "Aventura",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "8",
+      "titulo": "Pokémon Prism",
+      "desc": "Em um mundo vibrante repleto de novas regiões e criaturas inéditas, você embarca em uma jornada para se tornar o maior mestre Pokémon. Desafie líderes, descubra segredos ocultos e forme laços com seus parceiros enquanto explora uma história cheia de mistério e aventura.",
+      "capa": "covers/covers_gb/pokemon-prism.webp",
+      "logo": "play_game_logos/pokemon-prism-logo.webp",
+      "background": "backgrounds/pokemon-prism-hero.webp",
+      "hours": "30h",
+      "year": "2008",
+      "rate": "8.0",
+      "rom": "https://romsfun.com/download/pokemon-prism-h-53026/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
