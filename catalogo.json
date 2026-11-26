@@ -2684,6 +2684,19 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "9",
+      "titulo": "Aladdin - Hidden Objects Game",
+      "desc": "",
+      "capa": "",
+      "logo": "",
+      "background": "",
+      "hours": "",
+      "year": "",
+      "rate": "",
+      "rom": "https://romsfun.com/download/aladdin-7152/7",
+      "destaque": false
     }
   ],
   "nes": [
