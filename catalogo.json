@@ -2690,6 +2690,22 @@
       "genero": "RPG",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "3",
+      "titulo": "Pokémon Gold Version",
+      "desc": "Em Pokémon Gold Version, você embarca em uma jornada pela região de Johto, capturando criaturas únicas e desafiando líderes de ginásio para se tornar o Campeão. A aventura se expande ao conectar-se com a região de Kanto, oferecendo novas missões, eventos de dia e noite, e a busca pelos lendários Pokémon que completam sua coleção.",
+      "capa": "covers/covers_gb/pokemon-gold-version.webp",
+      "logo": "play_game_logos/pokemon-gold-version-logo.webp",
+      "background": "backgrounds/pokemon-gold-version-hero.webp",
+      "hours": "30h",
+      "year": "1999",
+      "rate": "8.5",
+      "rom": "https://romsfun.com/download/pokemon-gold-version-20264/1",
+      "destaque": false,
+      "genero": "RPG",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "gba": [
