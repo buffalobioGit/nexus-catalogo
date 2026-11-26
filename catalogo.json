@@ -2485,6 +2485,22 @@
       "genero": "Corrida",
       "jogadores": 2,
       "geradoPorIA": true
+    },
+    {
+      "id": "114",
+      "titulo": "Altered Beast",
+      "desc": "Em um mundo antigo dominado por deuses e criaturas míticas, um guerreiro ressuscitado deve recuperar seu poder animal para salvar a humanidade das forças do mal. Transformando-se em feras poderosas, ele enfrenta hordas de inimigos em cenários sombrios, combinando força bruta e habilidades sobrenaturais para avançar na jornada.",
+      "capa": "covers/covers_ps2/altered-beast.webp",
+      "logo": "play_game_logos/altered-beast-logo.webp",
+      "background": "backgrounds/altered-beast-hero.webp",
+      "hours": "8h",
+      "year": "2005",
+      "rate": "7.0",
+      "rom": "https://romsfun.com/download/altered-beast-2-16051/1",
+      "destaque": false,
+      "genero": "Ação",
+      "jogadores": 1,
+      "geradoPorIA": true
     }
   ],
   "psp": [
