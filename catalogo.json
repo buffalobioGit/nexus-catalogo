@@ -2652,6 +2652,22 @@
       "genero": "Plataforma",
       "jogadores": 1,
       "geradoPorIA": true
+    },
+    {
+      "id": "6",
+      "titulo": "Super Mario Kart",
+      "desc": "Em Super Mario Kart, os icônicos personagens do Reino dos Cogumelos competem em corridas frenéticas cheias de curvas fechadas, power‑ups explosivos e pistas temáticas que vão das praias ensolaradas aos vulcões em erupção. O modo Grand Prix desafia os jogadores a conquistar troféus em diferentes copas, enquanto o modo Versus permite disputas intensas em tela dividida, garantindo diversão para toda a família.",
+      "capa": "covers/covers_snes/super-mario-kart.webp",
+      "logo": "play_game_logos/super-mario-kart-logo.webp",
+      "background": "backgrounds/super-mario-kart-hero.webp",
+      "hours": "15h",
+      "year": "1992",
+      "rate": "9.0",
+      "rom": "https://romsfun.com/download/super-mario-kart-7045/3",
+      "destaque": false,
+      "genero": "Corrida",
+      "jogadores": 2,
+      "geradoPorIA": true
     }
   ],
   "nes": [
